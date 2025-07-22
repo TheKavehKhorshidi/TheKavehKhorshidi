@@ -205,18 +205,18 @@ const Me = {
 <h1 align="center">
 
 <p align="center">
-<img width="70px" src="./Media/HTML.svg">
-<img width="70px" src="./Media/CSS.svg">
-<img width="70px" src="./Media/JavaScript.svg">
-<img width="70px" src="./Media/React-Dark.svg">
-<img width="70px" src="./Media/TailwindCSS-Dark.svg">
+<img width="60px" src="./Media/HTML.svg">
+<img width="60px" src="./Media/CSS.svg">
+<img width="60px" src="./Media/JavaScript.svg">
+<img width="60px" src="./Media/React-Dark.svg">
+<img width="60px" src="./Media/TailwindCSS-Dark.svg">
 </p>
 <p align="center">
-<img width="70px" src="./Media/Bootstrap.svg">
-<img width="70px" src="./Media/Github-Dark.svg">
-<img width="70px" src="./Media/Git.svg">
-<img width="70px" src="./Media/Regex-Dark.svg">
-<img width="70px" src="./Media/Npm-Light.svg">
+<img width="60px" src="./Media/Bootstrap.svg">
+<img width="60px" src="./Media/Github-Dark.svg">
+<img width="60px" src="./Media/Git.svg">
+<img width="60px" src="./Media/Regex-Dark.svg">
+<img width="60px" src="./Media/Npm-Light.svg">
 </p>
 
 </h1>
