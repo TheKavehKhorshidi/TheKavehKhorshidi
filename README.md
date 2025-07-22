@@ -6,6 +6,11 @@
 
 
 
+
+
+
+
+
 <h3 align="center">
 <img src="./Gif/Fire.png" alt="GitHub Logo" width="70">
 </h3>
@@ -20,8 +25,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <br/>
 <br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -60,6 +86,10 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
@@ -128,11 +158,45 @@ const Me = {
 <br/>
 <br/>
 <br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">skills
+ <img src="./Gif/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="23px"></img>
+ </h1>
+
+<br/>
+<br/>
 <br/>
 
 
 
 
+<h1 align="center">
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github,git,regex,npm,&perline=5)
+
+</h1>
 
 
 
@@ -145,20 +209,4 @@ const Me = {
 
 
 
-
-
-
-
-
-
-
-
-
-<p align="center">
-
-|       |       |
-|-------|-------|
-|<h1>skills <img src="./Gif/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px"></img></h1>  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github,git,regex,npm,&perline=5) | <p align="center"><img width="300px" src="./Gif/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png"></p> |
-
-</p>
 
