@@ -90,7 +90,7 @@ const Me = {
     markupLanguages: ["HTML"],
     styleLanguages: ["CSS"],
     frameworks: ["React"],
-    skills: ["regex"]
+    regex: true
   }
   
     email:"KavehKhorshidi2003@gmail.com"
@@ -146,8 +146,17 @@ const Me = {
 
 
 
+<br/>
+<br/>
+<br/>
 
 
+<p align="center">
+<img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+</p>
+
+
+<br/>
 <br/>
 <br/>
 
@@ -156,7 +165,7 @@ const Me = {
 
 
 <h1 align="center">Let’s Connect
- <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30px"></img>
+ <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="32px"></img>
  </h1>
 
 
@@ -188,25 +197,6 @@ const Me = {
 
 
 
-<p align="center">
-<img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-</p>
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-
 <h3 align="center">
 
 <a href="https://open.spotify.com/playlist/0ZF9uZCdR4JW6cWcF7wQdY" >
@@ -220,14 +210,6 @@ const Me = {
 
 
 <br/>
-<br/>
-<br/>
-
-
-
-
-
-
 
 
 
