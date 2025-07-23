@@ -6,16 +6,9 @@
 
 
 
-
-
-
-
-
 <h3 align="center">
-<img src="./Media/Fire.png" alt="GitHub Logo" width="70">
+<img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="70">
 </h3>
-
-
 
 <h3 align="center">
 
@@ -34,18 +27,9 @@
 
 
 
-
 <br/>
 <br/>
 <br/>
-
-
-
-
-
-
-
-
 
 
 
@@ -73,27 +57,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
-
-
-
 
 
 
@@ -102,7 +70,7 @@
 
 
 <p align="center">
-<img src="./Media/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="./Media/GIFs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
 
 ```javascript
@@ -131,7 +99,7 @@ const Me = {
 ```
 
 <p align="center">
-<img src="./Media/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="./Media/GIFs//212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
 
 
@@ -147,78 +115,66 @@ const Me = {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
 
 
 
 <h1 align="center">skills
- <img src="./Media/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="23px"></img>
+ <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
  </h1>
 
+<br/>
 
+<h1 align="center">
+<p align="center">
+<img width="60px" src="./Media/skill Icones/HTML.svg">
+<img width="60px" src="./Media/skill Icones/CSS.svg">
+<img width="60px" src="./Media/skill Icones/JavaScript.svg">
+<img width="60px" src="./Media/skill Icones/React-Dark.svg">
+<img width="60px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
+</p>
+<p align="center">
+<img width="60px" src="./Media/skill Icones/Bootstrap.svg">
+<img width="60px" src="./Media/skill Icones/Github-Dark.svg">
+<img width="60px" src="./Media/skill Icones/Git.svg">
+<img width="60px" src="./Media/skill Icones/Regex-Dark.svg">
+<img width="60px" src="./Media/skill Icones/Npm-Light.svg">
+</p>
+</h1>
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 
 
 
+
+<h1 align="center">Let’s Connect
+ <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30px"></img>
+ </h1>
+
+<br/>
+
 <h1 align="center">
-
 <p align="center">
-<img width="60px" src="./Media/HTML.svg">
-<img width="60px" src="./Media/CSS.svg">
-<img width="60px" src="./Media/JavaScript.svg">
-<img width="60px" src="./Media/React-Dark.svg">
-<img width="60px" src="./Media/TailwindCSS-Dark.svg">
+<a href="https://t.me/kaveh_khorshidi" target="_blank"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
+<a href="https://instagram.com/kaveh-khorshidiii" target="_blank"><img width="50px" src=""><img width="50px" src="./Media/Social Media/instagram.svg"></a>
+<a href="https://github.com/Kaveh-Khorshidi" target="_blank"><img width="50px" src=""><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
+<a href="#" target="_blank"><img width="60px" src=""><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
 </p>
-<p align="center">
-<img width="60px" src="./Media/Bootstrap.svg">
-<img width="60px" src="./Media/Github-Dark.svg">
-<img width="60px" src="./Media/Git.svg">
-<img width="60px" src="./Media/Regex-Dark.svg">
-<img width="60px" src="./Media/Npm-Light.svg">
-</p>
-
 </h1>
 
 
@@ -226,14 +182,14 @@ const Me = {
 
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 
@@ -241,12 +197,80 @@ const Me = {
 
 
 <p align="center">
-<img width="300px" src="./Media/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+<img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 </p>
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+<h3 align="center">
+
+<a href="https://open.spotify.com/playlist/0ZF9uZCdR4JW6cWcF7wQdY" >
+<img width="100px" src="./Media/Social Media/spotify.png">
+</a>
+<p align="center">Play Music </p>
+
+</h3>
+
+
+
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 <p align="center">
-<img src="./Media/Bottom.svg">
+<img src="./Media/GIFs/Bottom.svg">
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
