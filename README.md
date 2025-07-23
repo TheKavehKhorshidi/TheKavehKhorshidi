@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-<img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="70">
+<img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
 </h3>
 
 <h3 align="center">
@@ -92,8 +92,6 @@ const Me = {
     frameworks: ["React"],
     regex: true
   }
-  
-    email:"KavehKhorshidi2003@gmail.com"
 
 }
 ```
