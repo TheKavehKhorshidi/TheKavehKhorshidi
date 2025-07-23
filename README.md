@@ -12,7 +12,7 @@
 
 <h3 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=300&size=35&duration=4000&pause=3000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=4000&pause=3000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
 
 </h3>
 
