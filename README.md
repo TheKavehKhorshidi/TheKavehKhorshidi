@@ -129,7 +129,6 @@ const Me = {
  <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
  </h1>
 
-<br/>
 
 <h1 align="center">
 <p align="center">
@@ -166,14 +165,13 @@ const Me = {
  <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30px"></img>
  </h1>
 
-<br/>
 
 <h1 align="center">
 <p align="center">
-<a href="https://t.me/kaveh_khorshidi" target="_blank"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
-<a href="https://instagram.com/kaveh-khorshidiii" target="_blank"><img width="50px" src=""><img width="50px" src="./Media/Social Media/instagram.svg"></a>
-<a href="https://github.com/Kaveh-Khorshidi" target="_blank"><img width="50px" src=""><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-<a href="#" target="_blank"><img width="60px" src=""><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
+<a href="https://t.me/kaveh_khorshidi"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
+<a href="https://instagram.com/kaveh-khorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
+<a href="https://github.com/Kaveh-Khorshidi"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
+<a href="#"><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
 </p>
 </h1>
 
