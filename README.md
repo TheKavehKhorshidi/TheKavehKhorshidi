@@ -114,9 +114,6 @@ const Me = {
 
 
 
-
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -132,18 +129,18 @@ const Me = {
 
 <h1 align="center">
 <p align="center">
-<img width="60px" src="./Media/skill Icones/HTML.svg">
-<img width="60px" src="./Media/skill Icones/CSS.svg">
-<img width="60px" src="./Media/skill Icones/JavaScript.svg">
-<img width="60px" src="./Media/skill Icones/React-Dark.svg">
-<img width="60px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
+<img width="50px" src="./Media/skill Icones/HTML.svg">
+<img width="50px" src="./Media/skill Icones/CSS.svg">
+<img width="50px" src="./Media/skill Icones/JavaScript.svg">
+<img width="50px" src="./Media/skill Icones/React-Dark.svg">
+<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
 </p>
 <p align="center">
-<img width="60px" src="./Media/skill Icones/Bootstrap.svg">
-<img width="60px" src="./Media/skill Icones/Github-Dark.svg">
-<img width="60px" src="./Media/skill Icones/Git.svg">
-<img width="60px" src="./Media/skill Icones/Regex-Dark.svg">
-<img width="60px" src="./Media/skill Icones/Npm-Light.svg">
+<img width="50px" src="./Media/skill Icones/Bootstrap.svg">
+<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Git.svg">
+<img width="50px" src="./Media/skill Icones/Regex-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
 </p>
 </h1>
 
@@ -151,9 +148,6 @@ const Me = {
 
 
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -171,7 +165,7 @@ const Me = {
 <a href="https://t.me/kaveh_khorshidi"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
 <a href="https://instagram.com/kaveh-khorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
 <a href="https://github.com/Kaveh-Khorshidi"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-<a href="#"><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/kaveh-khorshidi/"><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
 </p>
 </h1>
 
