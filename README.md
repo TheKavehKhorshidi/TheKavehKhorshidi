@@ -183,16 +183,22 @@ const Me = {
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <h3 align="center">
 
-<img width="100%" src="./Media/GIFs/kaveh (9).jpg">
+REFACTORING MY LIFE ONE COMMIT AT A TIME
 
 </h3>
 
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
