@@ -211,11 +211,13 @@ const Me = {
 
 
 
+
 <h3 align="center">
 
-<a href="https://open.spotify.com/playlist/0ZF9uZCdR4JW6cWcF7wQdY" >
-<img width="100px" src="./Media/Social Media/spotify.png">
+<a href="" >
+<img width="80px" src="./Media/Social Media/4700665_music_play_player_social_soundcloud_icon.png">
 </a>
+
 <p align="center">Play Music </p>
 
 </h3>
