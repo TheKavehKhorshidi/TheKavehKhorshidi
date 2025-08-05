@@ -214,8 +214,8 @@ const Me = {
 
 <h3 align="center">
 
-<a href="" >
-<img width="80px" src="./Media/Social Media/4700665_music_play_player_social_soundcloud_icon.png">
+<a href="https://soundcloud.com/kaveh-khorshidi-898927270/sets/kaveh-khorshidi?si=1ee4ea502dd94a5eac259b8b2e0a4e5b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" >
+<img width="60px" src="./Media/Social Media/4700665_music_play_player_social_soundcloud_icon.png">
 </a>
 
 <p align="center">Play Music </p>
