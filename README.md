@@ -172,7 +172,7 @@ const Me = {
 <a href="https://t.me/kaveh_khorshidi"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
 <a href="https://instagram.com/kaveh-khorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
 <a href="https://github.com/Kaveh-Khorshidi"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-<a href="https://www.linkedin.com/in/kaveh-khorshidi/"><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/kaveh-khorshidi/"><img width="50px" src="https://www.linkedin.com/in/kavehkhorshidiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
 </p>
 </h1>
 
