@@ -183,9 +183,6 @@ const Me = {
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 
 <h3 align="center">
@@ -198,9 +195,6 @@ const Me = {
 
 
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
