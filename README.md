@@ -189,8 +189,10 @@ const Me = {
 
 
 <h3 align="center">
-
+  
+```bash
 "MY LIFE’S REPOSITORY IS CONSTANTLY UNDER DEVELOPMENT"
+```
 
 </h3>
 
