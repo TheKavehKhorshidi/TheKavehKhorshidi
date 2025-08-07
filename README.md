@@ -4,8 +4,6 @@
 
 
 
-
-
 <h3 align="center">
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
 </h3>
@@ -15,13 +13,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=4000&pause=3000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
 
 </h3>
-
-
-
-
-
-
-
 
 
 
@@ -56,14 +47,11 @@
 
 
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
 
 
 
@@ -104,14 +92,6 @@ const Me = {
 
 
 
-
-
-
-
-
-
-
-
 <br/>
 <br/>
 <br/>
@@ -144,14 +124,22 @@ const Me = {
 
 
 
+
+
 <br/>
 <br/>
 <br/>
+
+
+
 
 
 <p align="center">
 <img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 </p>
+
+
+
 
 
 <br/>
@@ -177,12 +165,17 @@ const Me = {
 </h1>
 
 
+
+
+
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+
+
 
 
 
@@ -196,15 +189,14 @@ const Me = {
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -223,12 +215,8 @@ const Me = {
 
 
 
+
 <br/>
-
-
-
-
-
 
 
 
@@ -237,26 +225,6 @@ const Me = {
 <p align="center">
 <img src="./Media/GIFs/Bottom.svg">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
