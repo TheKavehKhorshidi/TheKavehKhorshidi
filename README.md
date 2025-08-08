@@ -187,16 +187,12 @@ const Me = {
 
 
 
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
 
 
 
@@ -212,21 +208,6 @@ const Me = {
 
 
 
-
-
-<br/>
-
-
-
-
-
 <p align="center">
 <img src="./Media/GIFs/Bottom.svg">
 </p>
-
-
-
-
-
-
-
