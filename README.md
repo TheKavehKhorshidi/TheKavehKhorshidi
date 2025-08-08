@@ -1,7 +1,4 @@
-<br/>
-<br/>
-<br/>
-
+<br/><br/>
 
 <h3 align="center">
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
@@ -12,12 +9,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=4000&pause=3000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
 
 </h3>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
+<br/><br/><br/><br/>
 
 <p align="center">
 <picture>
@@ -34,15 +27,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
+  
+</p><br/><br/><br/><br/><br/><br/>
 
 <p align="center">
 <img src="./Media/GIFs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -71,24 +57,15 @@ const Me = {
 }
 ```
 
-
-
 <p align="center">
 <img src="./Media/GIFs//212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
+<br/><br/><br/><br/><br/>
 
 <h1 align="center">skills
  <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
  </h1>
-
-
 
 <h1 align="center">
 <p align="center">
@@ -106,19 +83,14 @@ const Me = {
 <img width="50px" src="./Media/skill Icones/Npm-Light.svg">
 </p>
 </h1>
-<br/>
-<br/>
 
-
-
+<br/><br/>
 
 <p align="center">
 <img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 </p>
-<br/>
-<br/>
 
-
+<br/><br/>
 
 <h1 align="center">Let’s Connect
  <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="32px"></img>
@@ -131,14 +103,8 @@ const Me = {
 <a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
 <!-- <a href="https://www.linkedin.com/in/kavehkhorshidiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="50px" src="./Media/Social Media/linkedin.svg"></a></p> -->
 </h1>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
+<br/><br/><br/><br/><br/><br/>
 
 <h3 align="center">
   
@@ -147,14 +113,8 @@ const Me = {
 ```
 
 </h3>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
+<br/><br/><br/><br/><br/><br/>
 
 <h3 align="center">
 
@@ -165,8 +125,6 @@ const Me = {
 <p align="center">Play Music </p>
 
 </h3>
-
-
 
 <p align="center">
 <img src="./Media/GIFs/Bottom.svg">
