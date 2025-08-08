@@ -1,9 +1,3 @@
-<br/>
-
-
-
-
-
 <h3 align="center">
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
 </h3>
@@ -13,16 +7,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=4000&pause=3000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
 
 </h3>
-
-
-
-
-
 <br/>
 <br/>
 <br/>
-
-
 
 
 
@@ -42,18 +29,11 @@
   />
 </picture>
 </p>
-
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
 
 
 
@@ -84,14 +64,11 @@ const Me = {
 }
 ```
 
+
+
 <p align="center">
 <img src="./Media/GIFs//212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
-
-
-
-
-
 <br/>
 <br/>
 <br/>
@@ -103,6 +80,7 @@ const Me = {
 <h1 align="center">skills
  <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
  </h1>
+
 
 
 <h1 align="center">
@@ -121,14 +99,8 @@ const Me = {
 <img width="50px" src="./Media/skill Icones/Npm-Light.svg">
 </p>
 </h1>
-
-
-
-
-
 <br/>
 <br/>
-
 
 
 
@@ -136,15 +108,8 @@ const Me = {
 <p align="center">
 <img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 </p>
-
-
-
-
-
 <br/>
 <br/>
-
-
 
 
 
@@ -152,28 +117,19 @@ const Me = {
  <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="32px"></img>
  </h1>
 
-
 <h1 align="center">
 <p align="center">
 <a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
 <a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
 <a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-<!-- <a href="https://www.linkedin.com/in/kavehkhorshidiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="50px" src="./Media/Social Media/linkedin.svg"></a>
-</p> -->
+<!-- <a href="https://www.linkedin.com/in/kavehkhorshidiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="50px" src="./Media/Social Media/linkedin.svg"></a></p> -->
 </h1>
-
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
 
 
 
@@ -184,9 +140,6 @@ const Me = {
 ```
 
 </h3>
-
-
-
 <br/>
 <br/>
 <br/>
