@@ -74,12 +74,14 @@ const Me = {
 <img width="50px" src="./Media/skill Icones/JavaScript.svg">
 <img width="50px" src="./Media/skill Icones/React-Dark.svg">
 <img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Ts.svg">
 </p>
 <p align="center">
 <img width="50px" src="./Media/skill Icones/Bootstrap.svg">
 <img width="50px" src="./Media/skill Icones/Github-Dark.svg">
 <img width="50px" src="./Media/skill Icones/Git.svg">
 <img width="50px" src="./Media/skill Icones/Regex-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
 <img width="50px" src="./Media/skill Icones/Npm-Light.svg">
 </p>
 </h1>
