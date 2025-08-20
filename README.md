@@ -72,17 +72,17 @@ const Me = {
 <img width="50px" src="./Media/skill Icones/HTML.svg">
 <img width="50px" src="./Media/skill Icones/CSS.svg">
 <img width="50px" src="./Media/skill Icones/JavaScript.svg">
-<img width="50px" src="./Media/skill Icones/React-Dark.svg">
-<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
 <img width="50px" src="./Media/skill Icones/TypeScript.svg">
+<img width="50px" src="./Media/skill Icones/React-dark.svg">
+<img width="50px" src="./Media/skill Icones/NextJS-dark.svg">
 </p>
 <p align="center">
+<img width="50px" src="./Media/skill Icones/TailwindCSS-dark.svg">
 <img width="50px" src="./Media/skill Icones/Bootstrap.svg">
-<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Regex-light.svg">
+<img width="50px" src="./Media/skill Icones/Github-dark.svg">
 <img width="50px" src="./Media/skill Icones/Git.svg">
-<img width="50px" src="./Media/skill Icones/Regex-Dark.svg">
-<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
-<img width="50px" src="./Media/skill Icones/NextJS-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Npm-light.svg">
 </p>
 </h1>
 
