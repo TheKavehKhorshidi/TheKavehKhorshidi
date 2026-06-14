@@ -37,14 +37,13 @@
 
 
 
-<table>
+<table border="0">
 <tr>
 
 <td  width="50%" valign="top">
 
 ### About Me
 ```
-
 Hi 👋 I'm Kaveh, a Junior Front-End Developer.
 I build modern and responsive web applications using React.
 I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
@@ -121,7 +120,7 @@ const Me = {
 <p align="center">
 <img width="50px" src="./Media/skill Icones/Redux.svg">
 <img width="50px" src="./Media/skill Icones/Postman.svg">
-<img width="50px" src="./Media/skill Icones/otp-svgrepo-com.svg">
+<img width="50px" src="./Media/skill Icones/otp.svg">
 <img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
 <img width="50px" src="./Media/skill Icones/xmind.svg">
 <img width="50px" src="./Media/skill Icones/notion.svg">
