@@ -42,8 +42,13 @@
 
 
 
+<p align="right">
 
 <img align="right" width="50%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+</p>
+
+<p align="left">
 
 ### About Me
 
@@ -54,12 +59,9 @@ I build modern and responsive web applications using React.
 I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
 Currently improving my frontend skills and looking for job opportunities.
 
+
 ```
-
-
-
-
-
+</p>
 
 
 
@@ -67,10 +69,15 @@ Currently improving my frontend skills and looking for job opportunities.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
+<p align="right">
 
 
 ```javascript
+
 const Me = {
 
   firstName: "Kaveh",
@@ -90,8 +97,11 @@ const Me = {
     regex: true
   }
 
+
 }
 ```
+
+</p>
 
 
 <br/><br/><br/>
