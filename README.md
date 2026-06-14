@@ -1,4 +1,4 @@
-<br/><br/>
+<br/>
 
 <h3 align="center">
 
@@ -19,7 +19,7 @@
 
 
 
-
+<br>
 
 
 
@@ -57,9 +57,12 @@ and small e-commerce websites.
 
 <br/>
 
-<p align="right"  width="40%">
 
 
+
+<h3 align="center">skills
+<img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22px"></img>
+</h3>
 
 <p align="center">
 <img width="50px" src="./Media/skill Icones/HTML.svg">
@@ -87,7 +90,6 @@ and small e-commerce websites.
 </p>
 
 
-</p>
 
 <br>
 <br>
@@ -133,7 +135,7 @@ const Me = {
 <br/><br/>
 
 <h3 align="center">Let’s Connect
-<img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="20px"></img>
+<img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
 </h3>
 
 <p align="center">
@@ -145,6 +147,7 @@ const Me = {
 
 
 
+<br/><br/><br/>
 <br/><br/><br/>
 
 
