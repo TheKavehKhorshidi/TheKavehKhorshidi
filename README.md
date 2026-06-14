@@ -1,12 +1,23 @@
 <br/><br/>
 
 <h3 align="center">
+
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
+
 </h3>
+
+
 
 <h3 align="center">
 
+test
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=3500&pause=7000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=3500&pause=7000&color=00FF00&width=435&lines=Hi+%2C+____________________________________________)](https://git.io/typing-svg)
+
+___
+
 
 </h3>
 
@@ -17,35 +28,6 @@
 
 
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 
@@ -221,4 +203,21 @@ skills
 
 
 
+
+
+<!-- Snake -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
