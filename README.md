@@ -11,6 +11,13 @@
 </h3>
 
 
+
+
+
+
+
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -35,25 +42,17 @@
 
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
 
-  <div style="flex: 1;">
+<img align="right" width="350" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 ### About Me
 ```
 Hi 👋 I'm Kaveh, a Junior Front-End Developer.
 I build modern and responsive web applications using React.
-I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
 Currently improving my frontend skills and looking for job opportunities.
 ```
 
-  </div>
 
-  <div style="flex: 1; text-align: center;">
-    <img src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="400" />
-  </div>
-
-</div>
 
 
 
