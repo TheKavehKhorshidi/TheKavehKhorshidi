@@ -53,14 +53,13 @@
 ### About Me
 
 ```
-
 Hi 👋 I'm Kaveh, a Junior Front-End Developer.
 I build modern and responsive web applications using React.
-I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
+I’ve worked on projects like Todo apps,
+ Weather apps, and small e-commerce websites.
 Currently improving my frontend skills and looking for job opportunities.
-
-
 ```
+
 </p>
 
 
@@ -189,32 +188,6 @@ const Me = {
 </p>
 
 
-
-
-
-
-
-<p align="center">About ME</p>
-
----
-slf
-
----
-
-<br/><br/><br/>
-
-> slam chetore. <br/>
-> 
-
-
-
-
-
-
-
-
-
-<br/><br/><br/>
 
 
 
