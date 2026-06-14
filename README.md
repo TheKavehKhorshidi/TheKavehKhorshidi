@@ -93,6 +93,7 @@ and small e-commerce websites.
 
 <br>
 <br>
+<br>
 
 
 
@@ -130,7 +131,7 @@ const Me = {
 
 <br/><br/>
 
-<img align="left" width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+<img align="left" width="300px" src="./Media/GIFs/programming.svg">
 
 <br/><br/>
 
