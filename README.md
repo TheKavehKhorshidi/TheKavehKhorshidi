@@ -202,26 +202,6 @@ const Me = {
 
 
 
-<p align="right">
-
-<img  width="50%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
-</p>
-
-<p align="left">
-
-### About Me
-
-```
-Hi 👋 I'm Kaveh, a Junior Front-End Developer.
-I build modern and responsive web applications using React.
-I’ve worked on projects like Todo apps,
- Weather apps, and small e-commerce websites.
-Currently improving my frontend skills and looking for job opportunities.
-```
-
-</p>
-
 
 ---
 
@@ -233,13 +213,90 @@ Currently improving my frontend skills and looking for job opportunities.
 ### About Me
 
 ```
+
 Hi 👋 I'm Kaveh, a Junior Front-End Developer.
+
 I build modern and responsive web applications using React.
-I’ve worked on projects like Todo apps,
- Weather apps, and small e-commerce websites.
+
+I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
+
 Currently improving my frontend skills and looking for job opportunities.
+
+
 ```
 
 ---
 
 
+
+---
+
+
+<img align="right"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+
+### About Me
+
+```
+
+Hi 👋 I'm Kaveh, a Junior Front-End Developer.
+
+I build modern and responsive web applications using React.
+
+I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
+
+Currently improving my frontend skills and looking for job opportunities.
+
+
+```
+
+---
+
+
+---
+
+
+<img align="right"  width="30%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+
+### About Me
+
+``` javascript
+
+Hi 👋 I'm Kaveh, a Junior Front-End Developer.
+
+I build modern and responsive web applications using React.
+
+I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
+
+Currently improving my frontend skills and looking for job opportunities.
+
+```
+
+---
+
+
+---
+
+
+<img align="right"  width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+
+### About Me
+
+``` javascript
+
+Hi 👋 I'm Kaveh, a Junior Front-End Developer.
+
+I build modern and responsive web applications using React.
+
+I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
+
+Currently improving my frontend skills and looking for job opportunities.
+
+```
+
+---
