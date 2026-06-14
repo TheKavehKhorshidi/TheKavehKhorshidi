@@ -133,7 +133,7 @@ const Me = {
 
 <img align="left" width="300px" src="./Media/GIFs/programming.svg">
 
-<br/><br/>
+<br/><br/><br/>
 
 <h3 align="center">Let’s Connect
 <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
@@ -143,37 +143,21 @@ const Me = {
 <a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
 <a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
 <a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-
+</p>
 
 
 
 <br/><br/>
 <br/><br/>
-
-<img align="left" width="50%" src="./Media/GIFs/programming.svg">
-
+<br/><br/>
 <br/><br/>
 
-<h3 align="center">Let’s Connect
-<img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
-</h3>
-
-<p align="center">
-<a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
-<a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
-<a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
 
 
 
 
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
 
-
-
-
-<h3 align="center">
+<h2 align="center">
   
 ```bash
 
