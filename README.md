@@ -45,6 +45,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 
@@ -72,6 +73,7 @@ Currently improving my frontend skills and looking for job
 
 Currently improving my frontend skills 
 
+and small e-commerce websites.
 
 ```
 
