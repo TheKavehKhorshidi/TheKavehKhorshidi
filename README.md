@@ -60,10 +60,6 @@ and small e-commerce websites.
 <p align="right"  width="40%">
 
 
-<p align="center">
-<img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
-</p>
-
 
 <p align="center">
 <img width="50px" src="./Media/skill Icones/HTML.svg">
@@ -102,22 +98,6 @@ and small e-commerce websites.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```javascript
 
 const Me = {
@@ -144,8 +124,77 @@ const Me = {
 
 ```
 
+
+
+<br/><br/>
+
+<img align="left" width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+<br/><br/>
+
+<h3 align="center">Let’s Connect
+<img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="20px"></img>
+</h3>
+
+<p align="center">
+<a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
+<a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
+<a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
+
+
+
+
+
 <br/><br/><br/>
 
+
+
+
+<h3 align="center">
+  
+```bash
+
+"MY LIFE’S REPOSITORY IS CONSTANTLY UNDER DEVELOPMENT"
+
+```
+
+</h3>
+
+
+
+
+
+
+
+
+
+
+
+<!-- Snake -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
+
+
+
+
+
+
+
+<!-- 
 <h1 align="center">
 skills
 <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
@@ -176,42 +225,13 @@ skills
 <img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
 <img width="50px" src="./Media/skill Icones/xmind.svg">
 <img width="50px" src="./Media/skill Icones/notion.svg">
-<!-- <img width="50px" src="./Media/skill Icones/Regex-Light.svg"> -->
-</p>
+<img width="50px" src="./Media/skill Icones/Regex-Light.svg">
+</p></h1> -->
 
-</h1>
 
-<br/><br/>
 
-<p align="center">
-<img width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-</p>
 
-<br/><br/>
 
-<h1 align="center">Let’s Connect
- <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="32px"></img>
- </h1>
-
-<h1 align="center">
-<p align="center">
-<a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
-<a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
-<a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-<!-- <a href="https://www.linkedin.com/in/kavehkhorshidiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="50px" src="./Media/Social Media/linkedin.svg"></a></p> -->
-</h1>
-
-<br/><br/><br/><br/><br/><br/>
-
-<h3 align="center">
-  
-```bash
-
-"MY LIFE’S REPOSITORY IS CONSTANTLY UNDER DEVELOPMENT"
-
-```
-
-</h3>
 
 
 <!-- 
@@ -225,33 +245,4 @@ skills
 
 </h3>
  -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Snake -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
