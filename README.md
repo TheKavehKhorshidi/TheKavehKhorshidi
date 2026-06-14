@@ -10,15 +10,9 @@
 
 <h3 align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=3500&pause=7000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=3500&pause=7000&color=00FF00&width=435&lines=________________________________________________________________________)](https://git.io/typing-svg)
-
-
-
 </h3>
-
 
 
 
@@ -186,9 +180,6 @@ skills
 
 </h3>
 
-<p align="center">
-<img src="./Media/GIFs/Bottom.svg">
-</p>
 
 
 
