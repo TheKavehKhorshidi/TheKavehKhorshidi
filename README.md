@@ -133,7 +133,8 @@ const Me = {
 
 <img align="left" width="300px" src="./Media/GIFs/programming.svg">
 
-<br/><br/><br/>
+<br/><br/>
+<br/><br/>
 
 <h3 align="center">Let’s Connect
 <img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
@@ -157,11 +158,13 @@ const Me = {
 
 
 
-<h2 align="center">
-  
+<h3 align="center">
+
 ```bash
 
+
 "MY LIFE’S REPOSITORY IS CONSTANTLY UNDER DEVELOPMENT"
+
 
 ```
 
@@ -192,6 +195,21 @@ const Me = {
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
