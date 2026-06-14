@@ -6,13 +6,11 @@
 
 <h3 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=4000&pause=3000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=3500&pause=7000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
 
 </h3>
 
-<br/><br/><br/><br/>
 
-<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -27,19 +25,57 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-  
-</p><br/><br/><br/><br/><br/><br/>
 
-<p align="center">
-<img src="./Media/GIFs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
+
+
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+<table>
+<tr>
+
+<td  width="50%" valign="top">
+
+### About Me
+```
+
+Hi 👋 I'm Kaveh, a Junior Front-End Developer.
+I build modern and responsive web applications using React.
+I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
+Currently improving my frontend skills and looking for job opportunities.
+
+```
+
+</td>
+
+<td width="50%" align="center">
+  <img src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="500px" />
+</td>
+
+</tr>
+</table>
+
+
+
+
+<br/>
+<br/>
+<br/>
+
+
 
 ```javascript
 const Me = {
 
   firstName: "Kaveh",
   lastName: "Khorshidi",
-  age: 1381
+  birthYear: 2003
 
   location:{ city:"Tehran", country:"Iran" }
   
@@ -57,11 +93,8 @@ const Me = {
 }
 ```
 
-<p align="center">
-<img src="./Media/GIFs//212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <h1 align="center">skills
  <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
@@ -77,13 +110,24 @@ const Me = {
 <img width="50px" src="./Media/skill Icones/NextJS-Dark.svg">
 </p>
 <p align="center">
-<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
-<img width="50px" src="./Media/skill Icones/Bootstrap.svg">
-<img width="50px" src="./Media/skill Icones/Regex-Light.svg">
-<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
-<img width="50px" src="./Media/skill Icones/Git.svg">
 <img width="50px" src="./Media/skill Icones/Npm-Light.svg">
+<img width="50px" src="./Media/skill Icones/Git.svg">
+<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Bootstrap.svg">
+<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
+<img width="50px" src="./Media/skill Icones/api.svg">
+<img width="50px" src="./Media/skill Icones/MongoDB.svg">
 </p>
+<p align="center">
+<img width="50px" src="./Media/skill Icones/Redux.svg">
+<img width="50px" src="./Media/skill Icones/Postman.svg">
+<img width="50px" src="./Media/skill Icones/otp-svgrepo-com.svg">
+<img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
+<img width="50px" src="./Media/skill Icones/xmind.svg">
+<img width="50px" src="./Media/skill Icones/notion.svg">
+<!-- <img width="50px" src="./Media/skill Icones/Regex-Light.svg"> -->
+</p>
+
 </h1>
 
 <br/><br/>
@@ -133,4 +177,43 @@ const Me = {
 <p align="center">
 <img src="./Media/GIFs/Bottom.svg">
 </p>
+
+
+
+
+
+
+
+<p align="center">About ME</p>
+
+---
+slf
+
+---
+
+<br/><br/><br/>
+
+> slam chetore. <br/>
+> 
+
+
+
+
+
+
+
+
+
+<br/><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
 
