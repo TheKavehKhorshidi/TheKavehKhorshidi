@@ -55,20 +55,67 @@ and small e-commerce websites.
 
 
 
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
-
-
+<p align="right"  width="40%">
 
 
 <p align="center">
+<img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
+</p>
+
+
+<p align="center">
+<img width="50px" src="./Media/skill Icones/HTML.svg">
+<img width="50px" src="./Media/skill Icones/CSS.svg">
+<img width="50px" src="./Media/skill Icones/JavaScript.svg">
+<img width="50px" src="./Media/skill Icones/TypeScript.svg">
+<img width="50px" src="./Media/skill Icones/React-Dark.svg">
+<img width="50px" src="./Media/skill Icones/NextJS-Dark.svg">
+<img width="50px" src="./Media/skill Icones/Git.svg">
+<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
+<img width="50px" src="./Media/skill Icones/Bootstrap.svg">
+<img width="50px" src="./Media/skill Icones/notion.svg">
+</p>
+<p align="center">
+<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
+<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
+<img width="50px" src="./Media/skill Icones/api.svg">
+<img width="50px" src="./Media/skill Icones/Redux.svg">
+<img width="50px" src="./Media/skill Icones/Postman.svg">
+<img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
+<img width="50px" src="./Media/skill Icones/MongoDB.svg">
+<img width="50px" src="./Media/skill Icones/otp.svg">
+<img width="50px" src="./Media/skill Icones/xmind.svg">
+<img width="50px" src="./Media/skill Icones/Regex-Light.svg">
+</p>
+
+
+</p>
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```javascript
@@ -94,10 +141,8 @@ const Me = {
 
 
 }
+
 ```
-
-</p>
-
 
 <br/><br/><br/>
 
@@ -168,8 +213,8 @@ skills
 
 </h3>
 
-<br/><br/><br/><br/><br/><br/>
 
+<!-- 
 <h3 align="center">
 
 <a href="https://soundcloud.com/kavehkhorshidiii/sets/kaveh-khorshidi?si=e14d6d7b53af474cb21cd64ba7ab4aa5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" >
@@ -179,7 +224,7 @@ skills
 <p align="center">Play Music </p>
 
 </h3>
-
+ -->
 
 
 
