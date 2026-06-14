@@ -36,9 +36,16 @@
 
 
 
+
+
+
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
@@ -62,7 +69,9 @@ I’ve worked on projects like Todo apps, Weather apps,
 and small e-commerce websites.
 
 Currently improving my frontend skills and looking for job
-opportunities.
+
+Currently improving my frontend skills 
+
 
 ```
 
@@ -78,6 +87,10 @@ opportunities.
 <br/>
 <br/>
 <br/>
+
+
+
+
 
 <p align="center">
 
