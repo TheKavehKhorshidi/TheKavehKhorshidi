@@ -45,11 +45,12 @@
 
 
 
-<img align="right"  width="30%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
-
-
 ### About Me
+<img align="right"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+<p align="left" width="60%">
+
 
 ```
 
@@ -65,6 +66,7 @@ opportunities.
 
 ```
 
+</p>
 
 
 
@@ -110,8 +112,9 @@ const Me = {
 
 <br/><br/><br/>
 
-<h1 align="center">skills
- <img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
+<h1 align="center">
+skills
+<img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
  </h1>
 
 <h1 align="center">
@@ -204,82 +207,3 @@ const Me = {
 
 
 
-
-
-
-
----
-
-
-<img align="right"  width="50%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
-
-
-### About Me
-
-```
-
-Hi 👋 I'm Kaveh, a Junior Front-End Developer.
-
-I build modern and responsive web applications using React.
-
-I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
-
-Currently improving my frontend skills and looking for job opportunities.
-
-
-```
-
----
-
-
-
----
-
-
-<img align="right"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
-
-
-### About Me
-
-```
-
-Hi 👋 I'm Kaveh, a Junior Front-End Developer.
-
-I build modern and responsive web applications using React.
-
-I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
-
-Currently improving my frontend skills and looking for job opportunities.
-
-
-```
-
----
-
-
-
-
----
-
-
-<img align="right"  width="300px" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
-
-
-### About Me
-
-``` javascript
-
-Hi 👋 I'm Kaveh, a Junior Front-End Developer.
-
-I build modern and responsive web applications using React.
-
-I’ve worked on projects like Todo apps, Weather apps, and small e-commerce websites.
-
-Currently improving my frontend skills and looking for job opportunities.
-
-```
-
----
