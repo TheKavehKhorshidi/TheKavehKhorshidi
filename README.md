@@ -92,12 +92,10 @@ const Me = {
     firstName: "Kaveh",
     lastName: "Khorshidi",
     birthYear: 2003,
-
     location: { city: "Tehran", country: "Iran" },
-
     role: ["Frontend Developer"],
-
     status: "🟢 Open to Work ",
+
 
     job: {
         jobTitle: ["Frontend Developer"],
@@ -108,11 +106,8 @@ const Me = {
         tools: ["Git", "GitHub", "npm", "VS Code", "Postman"],
         databases: ["MongoDB"],
         other: ["REST API", "OTP Auth", "Regex"],
+        currentlyLearning: ["Regex", "Node.js"],
     },
-
-    currentlyLearning: ["Regex", "Node.js"],
-
-    goal: ["Build clean", "fast", "user-friendly web apps"],
 
 };
 ```
