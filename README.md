@@ -250,21 +250,7 @@ const Me = {
 
 
 
-<img align="right" width="100px" src="./Media/skill Icones/notion.svg">
 
-
-### 📚 My Notes
-- [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-
-
-
-<br> 
-<br> 
-<br> 
-<br> 
-
----
 
 
 
@@ -276,7 +262,7 @@ const Me = {
 
 
 
-<img align="right" width="30%" src="./Media/skill Icones/notion.svg">
+<img align="right" width="20%" src="./Media/skill Icones/notion.svg">
 
 
 
