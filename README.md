@@ -21,6 +21,8 @@
 
 
 <br>
+<br>
+<br>
 
 
 
@@ -56,6 +58,8 @@ Always learning, always building 🚀
 
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -101,6 +105,8 @@ Always learning, always building 🚀
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 
@@ -133,6 +139,8 @@ const Me = {
 
 
 <br/>
+<br/>
+<br/>
 
 
 <img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Coding..." alt="Hirad Emamialagha profile header" />
@@ -156,6 +164,8 @@ const Me = {
 
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -187,6 +197,8 @@ const Me = {
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 
@@ -211,6 +223,8 @@ const Me = {
 </h2>
 
 
+<br>
+<br>
 <br>
 <br>
 <br>
