@@ -151,6 +151,7 @@ const Me = {
 <a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
 <a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
 <a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
+<a href="kavehkhorshidiii@gmail.com"><img width="50px" src="./Media/Social Media/email.png"></a>
 </p>
 
 
