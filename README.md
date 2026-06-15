@@ -283,3 +283,28 @@ const Me = {
 <br>
 <br>
 
+
+
+
+
+<!-- 
+<h2 align="center">My Notes 
+<img src="./Media/skill Icones/notion.svg" width="22px"></img>
+</h2> -->
+
+<img align="right"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+<h3>My Notes 
+<img src="./Media/skill Icones/notion.svg" width="22px"></img>
+</h2>
+
+
+
+<h3>
+
+- [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+
+</h3>
