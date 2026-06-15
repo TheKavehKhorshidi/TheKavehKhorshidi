@@ -196,7 +196,9 @@ const Me = {
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=3500&pause=4000&color=00FF00&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=3500&pause=4000&color=00FF00&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=5000&pause=4000&color=59C359&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
 
 
 
