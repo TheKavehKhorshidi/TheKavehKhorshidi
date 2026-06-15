@@ -28,7 +28,7 @@
 
 
 
-### About Me
+### About Me 
 <img align="right"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 
@@ -36,6 +36,7 @@
 
 
 ```
+
 
 Hi 👋 I'm Kaveh, a Front-End Developer.
 
@@ -46,6 +47,7 @@ I enjoy learning new technologies, improving my skills, and
 building projects along the way.
 
 Always learning, always building.
+
 
 ```
 
