@@ -1,14 +1,13 @@
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Welcome&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
 
 
 <h3 align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Welcome&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
 
 </h3>
@@ -137,9 +136,9 @@ const Me = {
 
 
 
-<br/><br/>
-
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 <img align="left" width="400px"  src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="coding" />
 
@@ -157,9 +156,8 @@ const Me = {
 
 
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<br/>
+<br/>
 <br/>
 
 
@@ -217,6 +215,7 @@ const Me = {
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Welcome&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
 
