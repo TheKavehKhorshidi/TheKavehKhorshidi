@@ -36,7 +36,6 @@
 
 
 ```
-
 Hi 👋 I'm Kaveh, a Front-End Developer.
 
 I'm passionate about programming and enjoy turning ideas 
@@ -46,11 +45,10 @@ I love learning new technologies, improving my skills, and
 building meaningful projects that solve real problems.
 
 Currently focused on front-end development and always
-exploring better ways to create smooth, user-friendly web experiences.
+exploring better ways to create smooth, user-friendly
+ web experiences.
 
 Always learning, always building 🚀
-
-
 ```
 
 </p>
