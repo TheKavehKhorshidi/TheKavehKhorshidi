@@ -233,20 +233,10 @@ const Me = {
 
 <h3 align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800px&theme=dark&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800px&hide_border=true)
----
-![Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800px&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kavehkhorshidiii&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kavehkhorshidiii&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
 </h3>
 
 
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kavehkhorshidiii&theme=dark)](https://git.io/streak-stats)
