@@ -262,25 +262,24 @@ const Me = {
 
 
 
-<img align="right" width="20%" src="./Media/skill Icones/notion.svg">
+<img align="right" width="30%" src="./Media/skill Icones/notion.svg">
 
 
+
+<h1 >
+
+My Notes <img width="20px" src="./Media/skill Icones/notion.svg">
+
+</h1>
 
 
 <h3>
-📚 My Notes
-</h3>
-
----
-
-<h4>
 
 - [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 - [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 - [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
-</h4>
+</h3>
 
 
----
 
