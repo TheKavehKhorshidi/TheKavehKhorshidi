@@ -228,10 +228,11 @@ const Me = {
 → [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
 
-> Some documentation I wrote while I was writing — it might be useful.
 </h2>
 
+<b> Some documentation I wrote while I was writing — it might be useful.</b> 
 > Some documentation I wrote while I was writing — it might be useful.
+
 
 
 <br>
