@@ -196,10 +196,8 @@ const Me = {
 
 
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=3500&pause=4000&color=00FF00&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=5000&pause=4000&color=59C359&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=4500&pause=5000&color=59C359&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
 
 
 
@@ -211,63 +209,18 @@ const Me = {
 
 
 
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Kaveh%20text&section=header&fontAlign=50" alt="Hirad Emamialagha profile header" />
+
+
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false" alt="Hirad Emamialagha profile header" />
+
+
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
 
 
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
-
-
-<!-- 
-<h1 align="center">
-skills
-<img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"></img>
- </h1>
-
-<h1 align="center">
-<p align="center">
-<img width="50px" src="./Media/skill Icones/HTML.svg">
-<img width="50px" src="./Media/skill Icones/CSS.svg">
-<img width="50px" src="./Media/skill Icones/JavaScript.svg">
-<img width="50px" src="./Media/skill Icones/TypeScript.svg">
-<img width="50px" src="./Media/skill Icones/React-Dark.svg">
-<img width="50px" src="./Media/skill Icones/NextJS-Dark.svg">
-</p>
-<p align="center">
-<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
-<img width="50px" src="./Media/skill Icones/Git.svg">
-<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
-<img width="50px" src="./Media/skill Icones/Bootstrap.svg">
-<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
-<img width="50px" src="./Media/skill Icones/api.svg">
-<img width="50px" src="./Media/skill Icones/MongoDB.svg">
-</p>
-<p align="center">
-<img width="50px" src="./Media/skill Icones/Redux.svg">
-<img width="50px" src="./Media/skill Icones/Postman.svg">
-<img width="50px" src="./Media/skill Icones/otp.svg">
-<img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
-<img width="50px" src="./Media/skill Icones/xmind.svg">
-<img width="50px" src="./Media/skill Icones/notion.svg">
-<img width="50px" src="./Media/skill Icones/Regex-Light.svg">
-</p></h1> -->
-
-
-
-
-
-
-
-<!-- 
-<h3 align="center">
-
-<a href="https://soundcloud.com/kavehkhorshidiii/sets/kaveh-khorshidi?si=e14d6d7b53af474cb21cd64ba7ab4aa5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" >
-<img width="60px" src="./Media/Social Media/4700665_music_play_player_social_soundcloud_icon.png">
-</a>
-
-<p align="center">Play Music </p>
-
-</h3>
- -->
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
