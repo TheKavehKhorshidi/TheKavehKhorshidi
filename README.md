@@ -166,11 +166,13 @@ const Me = {
 <br/>
 
 
+
+
 <h3 align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800px&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800px)
-![Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
 
 </h3>
 
@@ -229,14 +231,6 @@ const Me = {
 
 
 
-
-
-<h3 align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
-</h3>
 
 
 
