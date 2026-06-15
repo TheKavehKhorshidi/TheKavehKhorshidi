@@ -199,7 +199,7 @@ const Me = {
 
 <h1>
 
-<img align="right" src="./Media/skill Icones/notion.svg" width="30%"></img>
+<img align="right" src="./Media/skill Icones/notion.svg" width="20%"></img>
 
 
 - [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
@@ -207,6 +207,11 @@ const Me = {
 - [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
 </h1>
+
+
+<br>
+<br>
+<br>
 
 
 <h3 align="center">
