@@ -131,6 +131,31 @@ const Me = {
 
 ```
 
+```javascript
+const Me = {
+
+  firstName: "Kaveh",
+  lastName: "Khorshidi",
+  birthYear: 2003,
+  location: { city: "Tehran", country: "Iran" },
+
+  job: {
+    jobTitle: ["Frontend Developer"],
+    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    frameworks: ["React", "Next.js"],
+    stateManagement: ["Redux"],
+    cssFrameworks: ["Bootstrap", "Tailwind CSS"],
+    tools: ["Git", "GitHub", "npm", "VS Code", "Postman"],
+    databases: ["MongoDB"],
+    other: ["REST API", "OTP Auth", "Regex"],
+    currentlyLearning: ["regex"],
+  },
+
+  getAge: () => new Date().getFullYear() - 2003,
+};
+```
+
+
 
 
 <br/>
