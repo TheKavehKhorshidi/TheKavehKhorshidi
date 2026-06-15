@@ -119,6 +119,11 @@ const Me = {
 
     location: { city: "Tehran", country: "Iran" },
 
+
+    role: ["Frontend Developer"],
+    status: "🟢 Open to Work ",
+
+
     job: {
         jobTitle: ["Frontend Developer"],
         languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
@@ -130,7 +135,11 @@ const Me = {
         other: ["REST API", "OTP Auth", "Regex"],
     },
 
-    currentlyLearning: ["regex"],
+
+    currentlyLearning: ["Regex", "Node.js"],
+
+    goal: ["Build clean", "fast", "user-friendly web apps"],
+
 
 };
 ```
@@ -218,9 +227,11 @@ const Me = {
 
 → [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
-→ [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
+> Some documentation I wrote while I was writing — it might be useful.
 </h2>
+
+> Some documentation I wrote while I was writing — it might be useful.
 
 
 <br>
