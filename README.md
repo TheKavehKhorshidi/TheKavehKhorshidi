@@ -39,9 +39,11 @@
 
 Hi 👋 I'm Kaveh, a Front-End Developer.
 
-I love programming and enjoy turning ideas into real-world applications through code.
+I love programming and enjoy turning ideas into real-world
+applications through code.
 
-I enjoy learning new technologies, improving my skills, and building projects along the way.
+I enjoy learning new technologies, improving my skills, and
+building projects along the way.
 
 Always learning, always building.
 
