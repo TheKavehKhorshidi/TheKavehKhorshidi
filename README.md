@@ -135,8 +135,9 @@ const Me = {
 <br/>
 <br/>
 
-<!-- <img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=cylinder&height=500&color=gradient&text=Input%20text&fontSize=90" alt="Hirad Emamialagha profile header" /> -->
+
 <img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Input%20text" alt="Hirad Emamialagha profile header" />
+<br>
 <br>
 <br>
 <br>
@@ -158,12 +159,12 @@ const Me = {
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 
 
-
-
-<!-- 
 <h3 align="center">
 
 ```bash
@@ -172,7 +173,7 @@ const Me = {
 
 ```
 
-</h3> -->
+</h3>
 
 
 
@@ -221,6 +222,7 @@ const Me = {
 
 
 
+<!-- <img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=cylinder&height=500&color=gradient&text=Input%20text&fontSize=90" alt="Hirad Emamialagha profile header" /> -->
 
 
 
