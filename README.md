@@ -170,14 +170,21 @@ const Me = {
 
 <h3 align="center">
 
-<img align="right" width="240px" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46" alt="Github status" />
+<img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46" alt="Github status" />
 
+<!-- <img  width="300px" src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontAlignY=46&strokeWidth=5&stroke=000000&animation=twinkling" alt="Github status" /> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
 
 </h3>
+
+
+
+
+
+
 
 
 <h3 align="center">
@@ -237,3 +244,15 @@ const Me = {
 
 
 
+
+<h3 align="center">
+
+<!-- <img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46" alt="Github status" /> -->
+
+<img  width="300px" src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontAlignY=46&strokeWidth=5&stroke=000000&animation=twinkling" alt="Github status" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
+
+</h3>
