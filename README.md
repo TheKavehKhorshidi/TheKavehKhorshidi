@@ -199,7 +199,7 @@ const Me = {
 
 <h1>
 
-<img align="right" src="./Media/skill Icones/notion.svg" width="20%"></img>
+<img align="right" src="./Media/skill Icones/notion.svg" width="10%"></img>
 
 
 - [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
