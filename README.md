@@ -37,18 +37,13 @@
 
 ```
 
-Hi 👋 I'm Kaveh, a Junior Front-End Developer.
+Hi 👋 I'm Kaveh, a Front-End Developer.
 
-I build modern and responsive web applications using React.
+I love programming and enjoy turning ideas into real-world applications through code.
 
-I’ve worked on projects like Todo apps, Weather apps,
-and small e-commerce websites.
+I enjoy learning new technologies, improving my skills, and building projects along the way.
 
-Currently improving my frontend skills and looking for job
-
-Currently improving my frontend skills 
-
-and small e-commerce websites.
+Always learning, always building.
 
 ```
 
