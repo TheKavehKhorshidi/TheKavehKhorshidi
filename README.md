@@ -250,7 +250,7 @@ const Me = {
 
 
 
-<img align="right" width="30%" src="./Media/skill Icones/notion.svg">
+<img align="right" width="100px" src="./Media/skill Icones/notion.svg">
 
 
 ### 📚 My Notes
@@ -281,11 +281,11 @@ const Me = {
 
 
 
-<h2>
+<h3>
 📚 My Notes
-</h2>
+</h3>
 
-
+---
 
 <h4>
 
