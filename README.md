@@ -163,7 +163,7 @@ const Me = {
 
 <!-- my note -->
 <h1 align="center">
-<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=49&stroke=000000&strokeWidth=6"/>
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 <!-- <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🄽&fontColor=ffffff&animation=twinkling&fontSize=45&stroke=000000&strokeWidth=6"/> -->
 </h1>
 <h2>
