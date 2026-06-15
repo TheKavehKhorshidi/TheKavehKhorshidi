@@ -137,7 +137,7 @@ const Me = {
 <br/><br/>
 
 <h3 align="center">Let’s Connect
-<img src="./Media/GIFs//235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
+<img src="./Media/GIFs/programming.svg" width="22px"></img>
 </h3>
 
 <p align="center">
@@ -196,7 +196,7 @@ const Me = {
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=380&size=15&duration=3500&pause=4000&color=00FF00&width=570&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=3500&pause=4000&color=00FF00&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
 
 
 
