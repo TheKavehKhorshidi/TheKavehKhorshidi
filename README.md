@@ -61,22 +61,22 @@ Always learning, always building 🚀
 <img width="50px" src="./Media/skill Icones/TypeScript.svg">
 <img width="50px" src="./Media/skill Icones/React-Dark.svg">
 <img width="50px" src="./Media/skill Icones/NextJS-Dark.svg">
-<img width="50px" src="./Media/skill Icones/Git.svg">
-<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
+<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
 <img width="50px" src="./Media/skill Icones/Bootstrap.svg">
-<img width="50px" src="./Media/skill Icones/notion.svg">
+<img width="50px" src="./Media/skill Icones/Git.svg">
+<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
 </p>
 <p align="center">
-<img width="50px" src="./Media/skill Icones/Github-Dark.svg">
-<img width="50px" src="./Media/skill Icones/TailwindCSS-Dark.svg">
 <img width="50px" src="./Media/skill Icones/api.svg">
 <img width="50px" src="./Media/skill Icones/Redux.svg">
-<img width="50px" src="./Media/skill Icones/Postman.svg">
-<img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
 <img width="50px" src="./Media/skill Icones/MongoDB.svg">
+<img width="50px" src="./Media/skill Icones/Postman.svg">
 <img width="50px" src="./Media/skill Icones/otp.svg">
-<img width="50px" src="./Media/skill Icones/xmind.svg">
+<img width="50px" src="./Media/skill Icones/Npm-Light.svg">
 <img width="50px" src="./Media/skill Icones/Regex-Light.svg">
+<img width="50px" src="./Media/skill Icones/VSCode-Dark.svg">
+<img width="50px" src="./Media/skill Icones/notion.svg">
+<img width="50px" src="./Media/skill Icones/xmind.svg">
 </p> 
 
 
