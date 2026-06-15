@@ -246,3 +246,7 @@ const Me = {
 </h3>
 
 
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=kavehkhorshidiii&theme=dark)](https://git.io/streak-stats)
