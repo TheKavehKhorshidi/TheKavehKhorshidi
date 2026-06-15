@@ -192,13 +192,12 @@ const Me = {
 
 
 <h1 align="center">
-<!-- <img align="center" src="./Media/skill Icones/notion.svg" width="10%"></img> -->
-<img align="center" width="200%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
 
-<!-- My Notes  -->
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
+
 </h1>
 
-<h1>
+<h2>
 
 
 
@@ -206,7 +205,7 @@ const Me = {
 - [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 - [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
-</h1>
+</h2>
 
 
 <br>
@@ -249,6 +248,7 @@ const Me = {
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
 
 
