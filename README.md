@@ -93,12 +93,9 @@ and small e-commerce websites.
 
 
 
-<br>
-<br>
-<br>
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Welcome&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
 
@@ -131,8 +128,6 @@ const Me = {
 
 
 
-<br/>
-<br/>
 <br/>
 
 
@@ -215,7 +210,6 @@ const Me = {
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Welcome&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 
 
 
