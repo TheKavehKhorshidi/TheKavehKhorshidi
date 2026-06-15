@@ -262,16 +262,12 @@ const Me = {
 
 
 
-<img align="right" width="30%" src="./Media/skill Icones/notion.svg">
+<img align="right" width="20%" src="./Media/skill Icones/notion.svg">
 
 
-
-<h1 >
-
-My Notes <img width="20px" src="./Media/skill Icones/notion.svg">
-
-</h1>
-
+<h3>
+My Notes <img width="15px" src="./Media/skill Icones/notion.svg">
+</h3>
 
 <h3>
 
