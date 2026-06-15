@@ -166,6 +166,14 @@ const Me = {
 <br/>
 
 
+<h3 align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800px&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800px)
+![Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800px)
+
+</h3>
+
 
 <h3 align="center">
 
@@ -206,7 +214,6 @@ const Me = {
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=480&size=17&duration=4500&pause=5000&color=59C359&width=630&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
 
 
 
@@ -215,5 +222,21 @@ const Me = {
 
 
 
+
+
+
+
+
+
+
+
+
+<h3 align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800px&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800px&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800px&hide_border=true)
+
+</h3>
 
 
