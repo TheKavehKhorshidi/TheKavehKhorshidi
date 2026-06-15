@@ -191,6 +191,18 @@ const Me = {
 
 
 
+<h1 align="center">My Notes 
+<img src="./Media/skill Icones/notion.svg" width="30px"></img>
+</h1>
+
+<h2>
+
+- [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+
+</h2>
+
 
 <h3 align="center">
 
@@ -234,110 +246,4 @@ const Me = {
 
 
 
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-<br> 
-<br> 
-<br> 
-<br> 
-
-
-
-
-<h1 align="center">My Notes 
-<img src="./Media/skill Icones/notion.svg" width="22px"></img>
-</h1>
-
-<h2>
-
-- [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-
-</h2>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-<!-- 
-<h2 align="center">My Notes 
-<img src="./Media/skill Icones/notion.svg" width="22px"></img>
-</h2> -->
-
-<img align="right"  width="40%" src="./Media/GIFs/Fire.png">
-
-<br>
-
-<h3>
-My Notes 
-<!-- <img src="./Media/skill Icones/notion.svg" width="22px"></img> -->
-</h3>
-
-
-
-<h3>
-
-- [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-
-</h3>
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-<h1 align="center">My Notes 
-<img src="./Media/skill Icones/notion.svg" width="22px"></img>
-</h1>
-
-<img align="right"  width="50%" src="./Media/GIFs/Fire.png">
-
-
-<h2>
-
-- [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-- [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-
-</h2>
 
