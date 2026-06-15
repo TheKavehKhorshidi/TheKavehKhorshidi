@@ -170,7 +170,7 @@ const Me = {
 
 <h3 align="center">
 
-<img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46" alt="Github status" />
+<img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46&animation=twinkling" alt="Github status" />
 
 <!-- <img  width="300px" src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontAlignY=46&strokeWidth=5&stroke=000000&animation=twinkling" alt="Github status" /> -->
 
