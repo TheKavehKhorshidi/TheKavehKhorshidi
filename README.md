@@ -101,6 +101,7 @@ and small e-commerce websites.
 <br>
 <br>
 <br>
+<br>
 
 
 
@@ -136,7 +137,7 @@ const Me = {
 <br/>
 
 
-<img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=test" alt="Hirad Emamialagha profile header" />
+<img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Coding..." alt="Hirad Emamialagha profile header" />
 <br>
 <br>
 <br>
@@ -216,33 +217,3 @@ const Me = {
 
 
 
-
-
-
-
-
-
-<!-- <img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=cylinder&height=500&color=gradient&text=Input%20text&fontSize=90" alt="Hirad Emamialagha profile header" /> -->
-
-
-
-<!-- 
-<br/><br/>
-
-<img align="left" width="400px"  src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Coding...&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
-
-
-
-<br>
-<h3 align="center">Let’s Connect
-<img src="./Media/GIFs/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
-</h3>
-
-<p align="center">
-<a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
-<a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
-<a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-</p>
-
-
-<br/> -->
