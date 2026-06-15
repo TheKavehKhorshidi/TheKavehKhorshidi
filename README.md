@@ -1,41 +1,29 @@
-
 <br>
 
+
+
+<!-- gif -->
 <h3 align="center">
-
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
-
 </h3>
 
 
-
+<!-- Hi -->
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=400&size=35&duration=3500&pause=7000&color=00FF00&width=435&lines=Hi+%2C+I'm++Kaveh+Khorshidi)](https://git.io/typing-svg)
-
 </h3>
 
 
 
+<br><br><br>
 
 
 
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
+<!-- About Me -->
 ### About Me 
 <img align="right"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
-
 <p align="left" width="60%">
-
 
 ```
 Hi 👋 I'm Kaveh, a Front-End Developer.
@@ -52,21 +40,16 @@ exploring better ways to create smooth, user-friendly
 
 Always learning, always building 🚀
 ```
-
 </p>
 
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/>
 
 
 
-
+<!-- Skills -->
 <p align="center">
 <img width="700px" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Skills&section=header&fontAlign=50&descAlign=50&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
 </p>
@@ -98,18 +81,11 @@ Always learning, always building 🚀
 
 
 
+<br><br><br><br><br><br>
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
+<!-- const Me -->
 ```javascript
 const Me = {
 
@@ -119,10 +95,9 @@ const Me = {
 
     location: { city: "Tehran", country: "Iran" },
 
-
     role: ["Frontend Developer"],
-    status: "🟢 Open to Work ",
 
+    status: "🟢 Open to Work ",
 
     job: {
         jobTitle: ["Frontend Developer"],
@@ -135,30 +110,29 @@ const Me = {
         other: ["REST API", "OTP Auth", "Regex"],
     },
 
-
     currentlyLearning: ["Regex", "Node.js"],
 
     goal: ["Build clean", "fast", "user-friendly web apps"],
-
 
 };
 ```
 
 
 
-
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
 
-<img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Coding..." alt="Hirad Emamialagha profile header" />
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<!-- Let’s Connect -->
+<img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Coding..."  />
+
+
+
+<br><br><br><br><br>
+
+
+
+<!-- Let’s Connect -->
 <h3 align="center">Let’s Connect
 <img src="./Media/GIFs/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
 </h3>
@@ -171,26 +145,14 @@ const Me = {
 </p>
 
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
+<!-- Github Stats -->
 <h3 align="center">
 
-<img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46&animation=twinkling" alt="Github status" />
+<img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46&animation=twinkling"/>
 
-<!-- <img  width="300px" src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontAlignY=46&strokeWidth=5&stroke=000000&animation=twinkling" alt="Github status" /> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
@@ -200,33 +162,20 @@ const Me = {
 
 
 
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/><br/>
 
 
 
-
+<!-- my note -->
 <h1 align="center">
-
-<!-- <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" /> -->
-<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🄽&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
-
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=49&stroke=000000&strokeWidth=6"/>
+<!-- <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🄽&fontColor=ffffff&animation=twinkling&fontSize=45&stroke=000000&strokeWidth=6"/> -->
 </h1>
-
 <h2>
-
-
 
 → [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
 → [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
-
 
 </h2>
 
@@ -234,13 +183,11 @@ const Me = {
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 
+
+<!-- sentence -->
 <h3 align="center">
 
 ```bash
@@ -250,14 +197,6 @@ const Me = {
 ```
 
 </h3>
-
-
-
-
-
-
-
-
 
 
 
@@ -276,12 +215,6 @@ const Me = {
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-
-
-
-
 
 
 
