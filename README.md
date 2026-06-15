@@ -230,7 +230,7 @@ const Me = {
 
 </h2>
 
-> Some documentation I wrote while practicing and learning to write!
+> Some documentation I wrote while practicing and learning to write ↖︎
 
 
 
