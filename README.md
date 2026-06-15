@@ -58,13 +58,15 @@ and small e-commerce websites.
 
 
 <br/>
+<br/>
+<br/>
 
 
 
 
-<h3 align="center">skills
-<img src="./Media/GIFs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22px"></img>
-</h3>
+<p align="center">
+<img width="700px" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Skills&section=header&fontAlign=50&descAlign=50&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
+</p>
 
 <p align="center">
 <img width="50px" src="./Media/skill Icones/HTML.svg">
@@ -89,13 +91,16 @@ and small e-commerce websites.
 <img width="50px" src="./Media/skill Icones/otp.svg">
 <img width="50px" src="./Media/skill Icones/xmind.svg">
 <img width="50px" src="./Media/skill Icones/Regex-Light.svg">
-</p>
+</p> 
 
 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Welcome&section=header&fontAlign=50&descAlign=49&descAlignY=50&strokeWidth=0&fontColor=ffff&textBg=false&reversal=false" alt="Hirad Emamialagha profile header" />
+
+<br>
+<br>
+<br>
 
 
 
