@@ -193,7 +193,10 @@ const Me = {
 
 <h1 align="center">
 
-<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20💻&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🄽&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20→&fontColor=ffffff&animation=twinkling&fontSize=55&stroke=000000&strokeWidth=6" alt="Github status" />
 
 </h1>
 
