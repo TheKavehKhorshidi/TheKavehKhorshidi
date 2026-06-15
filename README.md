@@ -170,7 +170,7 @@ const Me = {
 
 <h3 align="center">
 
-<img align="right" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=56" alt="Github status" />
+<img align="right" width="240px" src="https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46" alt="Github status" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
