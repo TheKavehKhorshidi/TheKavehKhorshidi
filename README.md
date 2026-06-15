@@ -196,7 +196,7 @@ const Me = {
 
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=380&size=15&duration=3500&pause=4000&color=00FF00&width=570&lines=Thanks+for+visiting!+May+your+code+always+compile+on+the+first+try+.)](https://git.io/typing-svg)
 
 
 
