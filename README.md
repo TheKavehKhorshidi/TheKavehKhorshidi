@@ -230,8 +230,7 @@ const Me = {
 
 </h2>
 
-<b> Some documentation I wrote while I was writing — it might be useful.</b> 
-> Some documentation I wrote while I was writing — it might be useful.
+> Some documentation I wrote while practicing and learning to write!
 
 
 
