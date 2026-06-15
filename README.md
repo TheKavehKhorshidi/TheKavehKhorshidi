@@ -136,7 +136,7 @@ const Me = {
 <br/>
 
 
-<img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text={ }" alt="Hirad Emamialagha profile header" />
+<img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=test" alt="Hirad Emamialagha profile header" />
 <br>
 <br>
 <br>
