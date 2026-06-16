@@ -45,7 +45,7 @@ Always learning, always building 🚀
 
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 
@@ -81,7 +81,7 @@ Always learning, always building 🚀
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 
@@ -114,16 +114,13 @@ const Me = {
 
 
 
-<br/><br/>
-
-
-
 <!-- Let’s Connect -->
 <img align="left" width="50%" src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Coding..."  />
 
 
 
-<br><br><br><br>
+<!-- Dont touch <br> -->
+<br><br><br><br><br><br>
 
 
 
@@ -140,7 +137,7 @@ const Me = {
 </p>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 <!-- Github Stats -->
@@ -157,7 +154,7 @@ const Me = {
 
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 
@@ -194,6 +191,7 @@ const Me = {
 </h3>
 
 
+<h3 align="center">
 
 <!-- Snake -->
 <picture>
@@ -211,5 +209,5 @@ const Me = {
   />
 </picture>
 
-
+</h3>
 
