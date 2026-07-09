@@ -145,7 +145,7 @@ const Me = {
 <img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46&animation=twinkling"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehkhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavehKhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
 
