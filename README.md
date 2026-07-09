@@ -139,38 +139,41 @@ const Me = {
 <br/><br/><br/><br/>
 
 
+
+<!--
 <h3 align="center">
  
 <img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46&animation=twinkling"/>
 
 </h3>
 
-<!-- Github Stats -->
-<h3 align="center">
-
-<!-- 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
-
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&hide_border=true&hide_title=true&border_radius=50&custom_title=kakaka)
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=ocean&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka)
-![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&hide_border=true&hidef_title=true&max_langs=12)
-
-
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&hide_border=true&hide_title=true&border_radius=50&custom_title=kakaka&size=compact)
 
+![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&hide_border=true&hidef_title=true&max_langs=12)
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=ocean&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka)
+
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&hide_border=true&hide_title=true&border_radius=50&custom_title=kakaka)
 
 -->
 
+<!-- Github Stats -->
+<h3 align="center">
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Github%20Stats%20🅽&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
+
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka)
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=KavehKhorshidiii&theme=light&days=30&width=495&height=170)
+
+![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka&size=compact)
 
-
+ 
 </h3>
-
 
 
 
