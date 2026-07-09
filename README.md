@@ -144,23 +144,11 @@ const Me = {
 
 <img align="center" width="50%" src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Github%20Stats&fontAlign=50&descAlign=50&fontColor=ffff&fontAlignY=46&animation=twinkling"/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavehKhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
-<br/>
-<br/>
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-<br/>
-<br/>
 
 ![GitSkins Glass Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=github-dark&variant=glass&avatar=github)
 
-
-![GitSkins Persona Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=neon&variant=persona&avatar=github)
-
-![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&hide_border=true&hide_title=true&max_langs=12)
-
+![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&hide_border=true&hidef_title=true&max_langs=12)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&hide_border=true&hide_title=true&border_radius=50&custom_title=kakaka)
 
