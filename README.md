@@ -162,9 +162,9 @@ const Me = {
 
 <!-- Github Stats -->
 <h3 align="center">
-<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Github%20Stats%20🅽&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Github%20Stats%20★&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakak)
 
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=KavehKhorshidiii&theme=light&days=30&width=495&height=170)
 
