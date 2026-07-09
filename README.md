@@ -148,6 +148,24 @@ const Me = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavehKhorshidiii&layout=compact&card_width=800&theme=dark&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KavehKhorshidiii&theme=dark&card_width=800&hide_border=true)](https://git.io/streak-stats)
+<br/>
+<br/>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=KavehKhorshidiii&show_icons=true&theme=dark&card_width=800&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+<br/>
+<br/>
+
+![GitSkins Glass Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=github-dark&variant=glass&avatar=github)
+
+![GitSkins Classic Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=neon&variant=classic&avatar=github)
+
+![GitSkins Persona Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=neon&variant=persona&avatar=github)
+
+![GitSkins Stats Card](https://gitskins.com/api/stats?username=KavehKhorshidiii&theme=neon)
+
+![GitSkins Languages](https://gitskins.com/api/languages?username=KavehKhorshidiii&theme=neon)
+
+![GitSkins Streak](https://gitskins.com/api/streak?username=KavehKhorshidiii&theme=neon)
+
 
 </h3>
 
