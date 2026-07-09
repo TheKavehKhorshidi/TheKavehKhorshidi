@@ -156,16 +156,15 @@ const Me = {
 
 ![GitSkins Glass Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=github-dark&variant=glass&avatar=github)
 
-![GitSkins Classic Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=neon&variant=classic&avatar=github)
 
 ![GitSkins Persona Profile](https://gitskins.com/api/premium-card?username=KavehKhorshidiii&theme=neon&variant=persona&avatar=github)
 
-![GitSkins Stats Card](https://gitskins.com/api/stats?username=KavehKhorshidiii&theme=neon)
+![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&hide_border=true&hide_title=true&max_langs=12)
 
-![GitSkins Languages](https://gitskins.com/api/languages?username=KavehKhorshidiii&theme=neon)
 
-![GitSkins Streak](https://gitskins.com/api/streak?username=KavehKhorshidiii&theme=neon)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&hide_border=true&hide_title=true&border_radius=50&custom_title=kakaka)
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&hide_border=true&hide_title=true&border_radius=50&custom_title=kakaka&size=compact)
 
 </h3>
 
@@ -185,6 +184,7 @@ const Me = {
 → [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
 → [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+
 
 </h2>
 
