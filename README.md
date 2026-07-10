@@ -195,7 +195,13 @@ const Me = {
 
 → [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
+→ [NextJs Mind Map](https://app.xmind.com/zzMfMd5N?xid=YgbkWfln)
+
 → [Redux](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
+
+→ [Auth](https://kavehkhorshidiii.notion.site/Auth-37c62d44ff83809f9b43d9dcefcfdf5f)
+
+→ [MongoDB](https://kavehkhorshidiii.notion.site/MongoDB-4b162d44ff8383dfb628011582a3f139)
 
 
 </h2>
