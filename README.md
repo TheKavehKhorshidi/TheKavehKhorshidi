@@ -214,10 +214,6 @@ const Me = {
 
 <!-- Let’s Connect -->
 <p align="right" width="50%">
-<!-- 
-<h3 align="center">Let’s Connect
-<img src="./Media/GIFs/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
-</h3> -->
 
 
 <h3 align="center">
@@ -289,7 +285,7 @@ const Me = {
 
 
 <!-- sentence -->
-<h3 align="center">
+<!-- <h3 align="center">
 
 ```bash
 
@@ -297,13 +293,13 @@ const Me = {
 
 ```
 
-</h3>
+</h3> -->
 
 
-<h3 align="center">
+<!-- <h3 align="center"> -->
 
 <!-- Snake -->
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -316,7 +312,7 @@ const Me = {
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
 
-</h3>
+<!-- </h3> -->
 
