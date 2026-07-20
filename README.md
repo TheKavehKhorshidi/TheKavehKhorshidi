@@ -247,8 +247,6 @@ modern weather application, Weather App is a simple application to display the c
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakak)
 
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=KavehKhorshidiii&theme=light&days=30&width=495&height=170)
-
 ![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
 
 </h3>
