@@ -305,16 +305,3 @@ const Me = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavehkhorshidiii&theme=high-contrast&hide_border=true&area=true" alt="Activity graph" />
 </div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavehkhorshidiii&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavehkhorshidiii&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
-</div>
