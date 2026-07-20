@@ -385,7 +385,7 @@ const Me = {
 <h1 align="center">
 <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 </h1>
-<h2>
+<h2 align="left">
 
 → [NextJs](https://kavehkhorshidiii.notion.site/Next-Js-2d062d44ff8380f0b7b6c2b41f2769d5)
 
