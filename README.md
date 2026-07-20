@@ -109,7 +109,7 @@ const Me = {
         cssFrameworks: ["Bootstrap", "Tailwind CSS"],
         tools: ["Git", "GitHub", "npm", "VS Code", "Postman"],
         databases: ["MongoDB"],
-        other: ["REST API", "OTP Auth", "Regex"],
+        other: ["REST API", "OTP Auth"],
         currentlyLearning: ["Regex", "Node.js"],
     },
 
