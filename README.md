@@ -202,6 +202,8 @@ const Me = {
 </table>
 <!-- end projects Table section -->
 
+> Some documentation I wrote while practicing and learning to write ↖︎
+
 
 
 
@@ -228,6 +230,9 @@ const Me = {
 </p>
 
 </p>
+
+> Some documentation I wrote while practicing and learning to write ↖︎
+
 
 
 
@@ -284,7 +289,7 @@ const Me = {
 
 
 <!-- sentence -->
-<h3 align="center">
+<!-- <h3 align="center">
 
 ```bash
 
@@ -292,7 +297,7 @@ const Me = {
 
 ```
 
-</h3>
+</h3> -->
 
 
 <img align="center"  src="./Media//GIFs/Bottom.svg"/>
