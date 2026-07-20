@@ -129,6 +129,8 @@ const Me = {
 <h2>🚀 My Projects</h2>
 
 
+
+<!-- Table -->
 <table>
 <tr>
 
@@ -202,9 +204,95 @@ const Me = {
 </tr>
 
 </table>
+<!-- Table -->
 
 
 
+---------------------------------------------------------------------------------------------------------------
+
+
+
+<div align="center">
+
+<h2>🚀 My Projects</h2>
+
+
+
+<!-- Table -->
+<table>
+<tr>
+
+<!--  -->
+<td align="center" >
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+<table>
+<tr>
+<td align="center" >
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+</td>
+</tr>
+</td>
+<td align="center" >
+<a href="https://example.com">Demo</a>
+<tr>
+
+</tr>
+
+</table> 
+</td>
+<!--  -->
+
+
+<!--  -->
+<td align="center" >
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+</td>
+</tr>
+</td>
+<td align="center" >
+<a href="https://example.com">Demo</a>
+<tr>
+
+</tr>
+
+</table> 
+</td>
+<!--  -->
+
+
+<!--  -->
+<td align="center" >
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+<table>
+<tr>
+<td align="center" >
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+</td>
+</tr>
+</td>
+<td align="center">
+<a href="https://example.com">Demo</a>
+<tr>
+
+</tr>
+
+</table> 
+</td>
+<!--  -->
+
+
+
+</tr>
+
+</table>
+<!-- Table -->
 
 
 
