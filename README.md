@@ -118,12 +118,19 @@ const Me = {
 
 
 
-<!-- Dont touch <br> -->
-<br><br><br><br><br><br>
+<br><br><br>
 
 
 
 <!-- Let’s Connect -->
+<img align="left"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+<br/><br/>
+<br/><br/>
+
+
+<p align="right" width="60%">
+
 <h3 align="center">Let’s Connect
 <img src="./Media/GIFs/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
 </h3>
@@ -135,9 +142,11 @@ const Me = {
 <a href="mailto:kavehkhorshidiii@gmail.com"><img width="50px" src="./Media/Social Media/email.png"></a>
 </p>
 
+</p>
 
 
-<br/><br/><br/><br/>
+
+<br/><br/><br/><br/><br/><br/>
 
 
 
