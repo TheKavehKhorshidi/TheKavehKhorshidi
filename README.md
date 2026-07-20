@@ -202,7 +202,8 @@ const Me = {
 </table>
 <!-- end projects Table section -->
 
-> Some documentation I wrote while practicing and learning to write ↖︎
+> These are the projects I'm most passionate about. Each one taught me something new and pushed my boundaries. 📦
+These are the projects I'm most passionate about. Each one taught me something new and pushed my boundaries. 📦
 
 
 
@@ -221,8 +222,6 @@ const Me = {
 <h3 align="center">
 <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Let’s%20Connect%20🔗&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 </h3>
-
-> Some documentation I wrote while practicing and learning to write ↖︎
 
 
 <p align="center">
@@ -252,8 +251,7 @@ const Me = {
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=KavehKhorshidiii&theme=light&days=30&width=495&height=170)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
-<!-- 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka&size=compact) -->
+
 
  
 </h3>
