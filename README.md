@@ -284,7 +284,7 @@ const Me = {
 
 
 <!-- sentence -->
-<!-- <h3 align="center">
+<h3 align="center">
 
 ```bash
 
@@ -292,7 +292,7 @@ const Me = {
 
 ```
 
-</h3> -->
+</h3>
 
 
 <!-- <h3 align="center"> -->
