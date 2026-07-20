@@ -237,7 +237,7 @@ modern weather application, Weather App is a simple application to display the c
 
 
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 
