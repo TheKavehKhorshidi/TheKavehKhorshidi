@@ -156,7 +156,7 @@ modern weather application, Weather App is a simple application to display the c
 <table>
 <tr>
 <td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/CoffeeShop">GitHub</a>
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
 </td>
 </tr>
 </td>
@@ -183,7 +183,7 @@ modern weather application, Weather App is a simple application to display the c
 </tr>
 </td>
 <td align="center" width="300">
-<a href="https://example.com">Demo</a>
+<a href="#">Demo</a>
 <tr>
 
 </tr>
