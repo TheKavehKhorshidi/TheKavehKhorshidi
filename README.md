@@ -149,7 +149,7 @@ const Me = {
 
 <!-- project 2 -->
 <td align="center" width="300">
-<p>Weather App</p>
+<h2>Weather App</h2>
 <p>
 modern weather application, Weather App is a simple application to display the current weather in different cities around...
 </p>
@@ -172,7 +172,7 @@ modern weather application, Weather App is a simple application to display the c
 
 <!-- project 3 -->
 <td align="center" width="300">
-<h3>Authentication</h3>
+<h2>Authentication</h2>
 <p>This is a simple mini project built with Next.js and MongoDB that implements user authentication, allowing users to sign up...
 </p>
 <table>
