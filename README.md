@@ -121,20 +121,41 @@ const Me = {
 
 
 
----------------------------------------------------------------------------------------------------------------
 
 
+<!-- start projects Table section -->
 <div align="center">
 
-<h2>🚀 My Projects</h2>
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Featured%20Projects%20📦&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 
 
 
-<!-- Table -->
 <table>
 <tr>
 
+
+<!-- project 1 -->
+<td align="center" width="300">
+<h3>Trello</h3>
+<p>React Weather Application</p>
+<table>
+<tr>
+<td align="center" width="300">
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+</td>
+</tr>
+</td>
+<td align="center" width="300">
+<a href="https://example.com">Demo</a>
+<tr>
+
+</tr>
+
+</table> 
+</td>
 <!--  -->
+
+<!-- project 2 -->
 <td align="center" width="300">
 <h3>Weather App</h3>
 <p>React Weather Application</p>
@@ -155,10 +176,9 @@ const Me = {
 </td>
 <!--  -->
 
-
-<!--  -->
+<!-- project 3 -->
 <td align="center" width="300">
-<h3>Weather App</h3>
+<h3>Authentication</h3>
 <p>React Weather Application</p>
 <table>
 <tr>
@@ -178,157 +198,12 @@ const Me = {
 <!--  -->
 
 
-<!--  -->
-<td align="center" width="300">
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
 </tr>
-</td>
-<td align="center" width="300">
-<a href="https://example.com">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-
-</tr>
-
 </table>
-<!-- Table -->
+<!-- end projects Table section -->
 
 
 
-
-
----------------------------------------------------------------------------------------------------------------
-
-
-
-<div align="center">
-
-<h2>🚀 My Projects</h2>
-
-
-
-<!-- Table -->
-<table>
-<tr>
-
-<!--  -->
-<td align="center" width="300">
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" width="300">
-<a href="https://example.com">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-<!--  -->
-<td align="center" width="300">
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" width="300">
-<a href="https://example.com">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-</tr>
-
-</table>
-<!-- /Table -->
-
-
-<!-- Table -->
-<table>
-<tr>
-
-<!--  -->
-<td align="center" width="300">
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" width="300">
-<a href="https://example.com">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-<!--  -->
-<td align="center" width="300">
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" width="300">
-<a href="https://example.com">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-</tr>
-
-</table>
-<!-- /Table -->
-
-
----------------------------------------------------------------------------------------------------------------
 
 
 
