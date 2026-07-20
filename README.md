@@ -127,7 +127,7 @@ const Me = {
 
 <!-- project 1 -->
 <td align="center" width="300">
-<h3>Trello</h3>
+<h2>Trello</h2>
 <p>Trello Clone is a full-stack task management application inspired by Trello. Users can create boards, organize columns...
 </p>
 <table>
@@ -149,7 +149,7 @@ const Me = {
 
 <!-- project 2 -->
 <td align="center" width="300">
-<h3>Weather App</h3>
+<p>Weather App</p>
 <p>
 modern weather application, Weather App is a simple application to display the current weather in different cities around...
 </p>
