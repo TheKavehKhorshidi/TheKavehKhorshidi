@@ -201,7 +201,7 @@ const Me = {
 </tr>
 </table>
 
-> These are the projects I'm most passionate about. Each one taught me something new and pushed my boundaries.📦
+> These are the projects I'm most passionate about. Each one taught me something new and pushed my boundaries.
 
 <!-- end projects Table section -->
 
@@ -282,23 +282,10 @@ const Me = {
 
 </h2>
 
-> Some documentation I wrote while practicing and learning to write.📚
-
-<!-- 
-<br><br><br><br>
- -->
+> Some documentation I wrote while practicing and learning to write.
 
 
-<!-- sentence -->
-<!-- <h3 align="center">
 
-```bash
-
-"MY LIFE’S REPOSITORY IS CONSTANTLY UNDER DEVELOPMENT"
-
-```
-
-</h3> -->
 
 
 <img align="center"  src="./Media//GIFs/Bottom.svg"/>
@@ -311,3 +298,16 @@ const Me = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavehkhorshidiii&theme=high-contrast&hide_border=true&area=true" alt="Activity graph" />
 </div>
+
+
+
+<!-- sentence -->
+<h3 align="center">
+
+```bash
+
+"MY LIFE’S REPOSITORY IS CONSTANTLY UNDER DEVELOPMENT"
+
+```
+
+</h3>
