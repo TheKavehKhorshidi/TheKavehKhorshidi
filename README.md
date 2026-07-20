@@ -201,7 +201,7 @@ const Me = {
 </tr>
 </table>
 
-These are the projects I'm most passionate about. Each one taught me something new and pushed my boundaries. 📦
+> These are the projects I'm most passionate about. Each one taught me something new and pushed my boundaries. 📦
 
 <!-- end projects Table section -->
 
