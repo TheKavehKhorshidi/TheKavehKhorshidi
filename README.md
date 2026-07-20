@@ -125,8 +125,6 @@ const Me = {
 <!-- Let’s Connect -->
 
 
-<img align="left"  width="50%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
-
 <br/><br/>
 <br/><br/>
 
