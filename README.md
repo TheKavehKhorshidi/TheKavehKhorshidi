@@ -222,68 +222,78 @@ const Me = {
 <table>
 <tr>
 
+
+
 <!--  -->
 <td align="center" >
+
 <h3>Weather App</h3>
 <p>React Weather Application</p>
+
 <table>
 <tr>
+
 <td align="center" >
 <a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
 </td>
-</tr>
-</td>
-<td align="center" >
-<a href="https://example.com">Demo</a>
-<tr>
 
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-<!--  -->
-<td align="center" >
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" >
-<a href="https://example.com">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-
-<!--  -->
-<td align="center" >
-<h3>Weather App</h3>
-<p>React Weather Application</p>
-<table>
-<tr>
-<td align="center" >
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
 <td align="center">
 <a href="https://example.com">Demo</a>
-<tr>
+</td>
 
 </tr>
-
 </table> 
+
+</td>
+<!--  -->
+
+
+<!--  -->
+<td align="center" >
+
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+
+<table>
+<tr>
+
+<td align="center" >
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+</td>
+
+<td align="center">
+<a href="https://example.com">Demo</a>
+</td>
+
+</tr>
+</table> 
+
+</td>
+<!--  -->
+
+
+
+
+<!--  -->
+<td align="center" >
+
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+
+<table>
+<tr>
+
+<td align="center" >
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+</td>
+
+<td align="center">
+<a href="https://example.com">Demo</a>
+</td>
+
+</tr>
+</table> 
+
 </td>
 <!--  -->
 
@@ -331,7 +341,6 @@ const Me = {
 </td>
 <!--  -->
 
-<br/>
 
 <!--  -->
 <td align="center" width="300">
@@ -386,7 +395,6 @@ const Me = {
 </td>
 <!--  -->
 
-<br/>
 
 <!--  -->
 <td align="center" width="300">
