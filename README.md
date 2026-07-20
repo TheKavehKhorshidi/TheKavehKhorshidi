@@ -126,9 +126,9 @@ const Me = {
 
 
 <!-- project 1 -->
-<td align="center" height="400" width="300">
+<td align="center" width="300">
 <h3>Trello</h3>
-<p>Trello Clone is a full-stack task management application inspired by Trello. Users can create boards, organize columns, manage tasks, and reorder everything using drag-and-drop. Authentication is handled with JWT, and all data is stored in MongoDB.
+<p>Trello Clone is a full-stack task management application inspired by Trello. Users can create boards, organize columns...
 </p>
 <table>
 <tr>
@@ -151,7 +151,7 @@ const Me = {
 <td align="center" width="300">
 <h3>Weather App</h3>
 <p>
-modern weather application, Weather App is a simple application to display the current weather in different cities around the world.
+modern weather application, Weather App is a simple application to display the current weather in different cities around...
 </p>
 <table>
 <tr>
@@ -173,7 +173,7 @@ modern weather application, Weather App is a simple application to display the c
 <!-- project 3 -->
 <td align="center" width="300">
 <h3>Authentication</h3>
-<p>This is a simple mini project built with Next.js and MongoDB that implements user authentication, allowing users to sign up, sign in, and sign out. It uses MongoDB to store user data and Next.js API routes for the backend logic, providing a basic authentication system that can be extended for larger applications.
+<p>This is a simple mini project built with Next.js and MongoDB that implements user authentication, allowing users to sign up...
 </p>
 <table>
 <tr>
