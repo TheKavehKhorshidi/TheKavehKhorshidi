@@ -126,88 +126,43 @@ const Me = {
 
 <table>
 <tr>
+
+
 <td align="center" width="300">
-
-<h3>🌤 Weather App</h3>
-
-<p>
-React Weather Application
-</p>
-
-<a href="https://github.com/KavehKhorshidiii/weather-app">
-GitHub
-</a>
-
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
 <br>
-
-<a href="https://example.com">
-Demo
-</a>
-
+<a href="https://example.com">Demo</a>
 </td>
 
 <td align="center" width="300">
-
-<h3>📋 Trello Clone</h3>
-
-<p>
-Task Management App
-</p>
-
-<a href="https://github.com/KavehKhorshidiii/Trello">
-GitHub
-</a>
-
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
 <br>
-
-<a href="https://example.com">
-Demo
-</a>
-
+<a href="https://example.com">Demo</a>
 </td>
+
+<td align="center" width="300">
+<h3>Weather App</h3>
+<p>React Weather Application</p>
+<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+<br>
+<a href="https://example.com">Demo</a>
+</td>
+
+
 </tr>
 </table>
 
 ---
 
 
-## my Project
-
-<table>
-<tr>
-
-<td>
-<h2>1</h2>
-</td>
-<td>
-<h3>2</h3>
-</td>
-<td>
-<h3>3</h3>
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-<tr>
-<td><img src="./Media/GIFs/laptop.png" width="280"/></td>
-<td><img src="./Media/GIFs/laptop.png" width="280"/></td>
-<td><img src="./Media/GIFs/laptop.png" width="280"/></td>
-</tr>
-</table>
-
-
-</div>
-
-
-
 
 <br/><br/>
 <br/><br/>
+
 
 
 <!-- Let’s Connect -->
