@@ -126,18 +126,19 @@ const Me = {
 
 
 <!-- project 1 -->
-<td align="center" width="300">
+<td align="center" height="400" width="300">
 <h3>Trello</h3>
-<p>React Weather Application</p>
+<p>Trello Clone is a full-stack task management application inspired by Trello. Users can create boards, organize columns, manage tasks, and reorder everything using drag-and-drop. Authentication is handled with JWT, and all data is stored in MongoDB.
+</p>
 <table>
 <tr>
 <td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+<a href="https://github.com/KavehKhorshidiii/Trello">GitHub</a>
 </td>
 </tr>
 </td>
 <td align="center" width="300">
-<a href="https://example.com">Demo</a>
+<a href="https://trello-umber-psi.vercel.app/">Demo</a>
 <tr>
 
 </tr>
@@ -149,16 +150,18 @@ const Me = {
 <!-- project 2 -->
 <td align="center" width="300">
 <h3>Weather App</h3>
-<p>React Weather Application</p>
+<p>
+modern weather application, Weather App is a simple application to display the current weather in different cities around the world.
+</p>
 <table>
 <tr>
 <td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+<a href="https://github.com/KavehKhorshidiii/CoffeeShop">GitHub</a>
 </td>
 </tr>
 </td>
 <td align="center" width="300">
-<a href="https://example.com">Demo</a>
+<a href="https://weather-app-five-chi-91.vercel.app/">Demo</a>
 <tr>
 
 </tr>
@@ -170,11 +173,12 @@ const Me = {
 <!-- project 3 -->
 <td align="center" width="300">
 <h3>Authentication</h3>
-<p>React Weather Application</p>
+<p>This is a simple mini project built with Next.js and MongoDB that implements user authentication, allowing users to sign up, sign in, and sign out. It uses MongoDB to store user data and Next.js API routes for the backend logic, providing a basic authentication system that can be extended for larger applications.
+</p>
 <table>
 <tr>
 <td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
+<a href="https://github.com/KavehKhorshidiii/Authentication">GitHub</a>
 </td>
 </tr>
 </td>
@@ -221,7 +225,7 @@ const Me = {
 
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 
