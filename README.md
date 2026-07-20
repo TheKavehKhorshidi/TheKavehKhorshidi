@@ -214,9 +214,14 @@ const Me = {
 
 <!-- Let’s Connect -->
 <p align="right" width="50%">
-
+<!-- 
 <h3 align="center">Let’s Connect
 <img src="./Media/GIFs/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
+</h3> -->
+
+
+<h3 align="center">
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Let’s%20Connect%20🔗&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 </h3>
 
 <p align="center">
@@ -237,15 +242,15 @@ const Me = {
 
 <!-- Github Stats -->
 <h3 align="center">
-<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Github%20Stats%20★&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Github%20Stats%20✨&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakak)
 
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=KavehKhorshidiii&theme=light&days=30&width=495&height=170)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka&size=compact)
+<!-- 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakaka&size=compact) -->
 
  
 </h3>
@@ -258,7 +263,7 @@ const Me = {
 
 <!-- my note -->
 <h1 align="center">
-<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20🅽&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
+<img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20📚&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 </h1>
 <h2 align="left">
 
