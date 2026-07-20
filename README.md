@@ -6,6 +6,21 @@
 
 <!-- SHOWCASE-START -->
 
+## 🚀 My Projects
+
+### [Trello](https://github.com/KavehKhorshidiii/Trello)
+
+No description
+
+⭐ 1 stars
+
+### [weather-app](https://github.com/KavehKhorshidiii/weather-app)
+
+No description
+
+⭐ 1 stars
+
+
 <!-- SHOWCASE-END -->
 
 
