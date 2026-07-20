@@ -222,6 +222,9 @@ const Me = {
 <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Let’s%20Connect%20🔗&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 </h3>
 
+> Some documentation I wrote while practicing and learning to write ↖︎
+
+
 <p align="center">
 <a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
 <a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
@@ -231,7 +234,6 @@ const Me = {
 
 </p>
 
-> Some documentation I wrote while practicing and learning to write ↖︎
 
 
 
