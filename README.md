@@ -1,28 +1,12 @@
-
-<!-- SHOWCASE-START -->
-## 🚀 My Projects
-
-<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
-
-<a href="https://github.com/KavehKhorshidiii/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KavehKhorshidiii&repo=weather-app&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
-</a>
-
-<a href="https://github.com/KavehKhorshidiii/Trello">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KavehKhorshidiii&repo=Trello&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
-</a>
-
-</div>
+<br>
 
 
 ---
-*Updated on July 20, 2026*
-
-<!-- SHOWCASE-END -->
 
 
-<br>
 
+
+---
 
 
 <!-- gif -->
