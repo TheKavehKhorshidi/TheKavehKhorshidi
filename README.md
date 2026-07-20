@@ -1,14 +1,6 @@
 <br>
 
 
----
-
-
-
-
----
-
-
 <!-- gif -->
 <h3 align="center">
 <img src="./Media/GIFs//Fire.png" alt="GitHub Logo" width="120px">
@@ -128,15 +120,97 @@ const Me = {
 <br><br><br>
 
 
+<div align="center">
+
+<h2>🚀 My Projects</h2>
+
+<table>
+<tr>
+<td align="center" width="300">
+
+<h3>🌤 Weather App</h3>
+
+<p>
+React Weather Application
+</p>
+
+<a href="https://github.com/KavehKhorshidiii/weather-app">
+GitHub
+</a>
+
+<br>
+
+<a href="https://example.com">
+Demo
+</a>
+
+</td>
+
+<td align="center" width="300">
+
+<h3>📋 Trello Clone</h3>
+
+<p>
+Task Management App
+</p>
+
+<a href="https://github.com/KavehKhorshidiii/Trello">
+GitHub
+</a>
+
+<br>
+
+<a href="https://example.com">
+Demo
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+
+## my Project
+
+<table>
+<tr>
+
+<td>
+<h2>1</h2>
+</td>
+<td>
+<h3>2</h3>
+</td>
+<td>
+<h3>3</h3>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+<tr>
+<td><img src="./Media/GIFs/laptop.png" width="280"/></td>
+<td><img src="./Media/GIFs/laptop.png" width="280"/></td>
+<td><img src="./Media/GIFs/laptop.png" width="280"/></td>
+</tr>
+</table>
+
+
+</div>
+
+
+
+
+<br/><br/>
+<br/><br/>
 
 
 <!-- Let’s Connect -->
-
-
-<br/><br/>
-<br/><br/>
-
-
 <p align="right" width="50%">
 
 <h3 align="center">Let’s Connect
