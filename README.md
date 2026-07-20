@@ -282,7 +282,7 @@ These are the projects I'm most passionate about. Each one taught me something n
 
 </h2>
 
-Some documentation I wrote while practicing and learning to write ↖︎
+> Some documentation I wrote while practicing and learning to write ↖︎
 
 <!-- 
 <br><br><br><br>
