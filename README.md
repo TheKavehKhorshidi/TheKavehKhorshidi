@@ -7,6 +7,9 @@
 </h3>
 
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
+
 <!-- Hi -->
 <h3 align="center">
 
@@ -14,9 +17,8 @@
 </h3>
 
 
-
 <br>
-
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- About Me -->
@@ -42,11 +44,8 @@ Always learning, always building 🚀
 </p>
 
 
-
-<br/>
-<br/>
-<br/>
-
+<br/><br/><br/>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- Skills -->
@@ -80,12 +79,8 @@ Always learning, always building 🚀
 </p> 
 
 
-
-<br>
-<br>
-<br>
-<br>
-
+<br><br><br><br>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- const Me -->
@@ -116,18 +111,14 @@ const Me = {
 ```
 
 
-
 <br><br><br>
-
-
-
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- start projects Table section -->
 <div align="center">
 
 <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Featured%20Projects%20📦&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
-
 
 
 <table>
@@ -206,14 +197,8 @@ const Me = {
 <!-- end projects Table section -->
 
 
-
-
-
-
-
-<br/><br/>
-<br/><br/>
-
+<br/><br/><br/>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- Let’s Connect -->
@@ -226,21 +211,18 @@ const Me = {
 
 
 <p align="center">
-<a href="https://t.me/kavehkhorshidiiii"><img width="50px" src="./Media/Social Media/telegram.svg"></a>
-<a href="https://instagram.com/kavehkhorshidiii"><img width="50px" src="./Media/Social Media/instagram.svg"></a>
-<a href="https://github.com/KavehKhorshidiii"><img width="50px" src="./Media/Social Media/Github-Dark.svg"></a>
-<a href="mailto:kavehkhorshidiii@gmail.com"><img width="50px" src="./Media/Social Media/email.png"></a>
+<a href="https://t.me/kavehkhorshidiiii"><img width="40px" src="./Media/Social Media/telegram.svg"></a>
+<a href="https://instagram.com/kavehkhorshidiii"><img width="40px" src="./Media/Social Media/instagram.svg"></a>
+<a href="https://github.com/KavehKhorshidiii"><img width="40px" src="./Media/Social Media/Github-Dark.svg"></a>
+<a href="mailto:kavehkhorshidiii@gmail.com"><img width="40px" src="./Media/Social Media/email.png"></a>
 </p>
 
 </p>
 
 
 
-
-
-
-<br/><br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- Github Stats -->
@@ -253,14 +235,11 @@ const Me = {
 
 ![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
 
-
- 
 </h3>
 
 
-
 <br/><br/><br/>
-
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- my note -->
@@ -285,20 +264,21 @@ const Me = {
 > Some documentation I wrote while practicing and learning to write.
 
 
-
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <img align="center"  src="./Media//GIFs/Bottom.svg"/>
 
 
-
-
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavehkhorshidiii&theme=high-contrast&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 
 <!-- sentence -->
@@ -311,3 +291,6 @@ const Me = {
 ```
 
 </h3>
+
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
