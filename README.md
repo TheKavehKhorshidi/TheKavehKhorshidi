@@ -128,17 +128,17 @@ const Me = {
 <!-- project 1 -->
 <td align="center" width="300">
 <h2>Trello</h2>
-<h4>Trello Clone is a full-stack task management application inspired by Trello. Users can create boards, organize columns...
-</ا>
+<p>Trello Clone is a full-stack task management application inspired by Trello. Users can create boards, organize columns...
+</p>
 <table>
 <tr>
 <td align="center" width="300">
-<a  href="https://github.com/KavehKhorshidiii/Trello" target="_blank">GitHub</a>
+<a  href="https://github.com/KavehKhorshidiii/Trello">GitHub</a>
 </td>
 </tr>
 </td>
 <td align="center" width="300">
-<a href="https://trello-umber-psi.vercel.app/" target="_blank">Demo</a>
+<a href="https://trello-umber-psi.vercel.app/">Demo</a>
 <tr>
 
 </tr>
