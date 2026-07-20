@@ -123,13 +123,15 @@ const Me = {
 
 
 <!-- Let’s Connect -->
-<img align="left"  width="40%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+
+<img align="left"  width="50%" src="./Media/GIFs/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 <br/><br/>
 <br/><br/>
 
 
-<p align="right" width="60%">
+<p align="right" width="50%">
 
 <h3 align="center">Let’s Connect
 <img src="./Media/GIFs/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="22px"></img>
@@ -143,6 +145,7 @@ const Me = {
 </p>
 
 </p>
+
 
 
 
