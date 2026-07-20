@@ -228,11 +228,6 @@ modern weather application, Weather App is a simple application to display the c
 ```
 
 
-```bsah
-
-📞 09034343815
-
-```
 
 
 </p>
