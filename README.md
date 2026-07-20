@@ -147,9 +147,21 @@ const Me = {
 <td align="center" width="300">
 <h3>Weather App</h3>
 <p>React Weather Application</p>
+
+<table>
+<tr>
+<td align="center" width="300">
 <a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-<br>
+</td>
+<td align="center" width="300">
 <a href="https://example.com">Demo</a>
+</td>
+</tr>
+</table>
+
+</td>
+
+<br>
 </td>
 
 
