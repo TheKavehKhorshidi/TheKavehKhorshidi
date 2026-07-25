@@ -221,23 +221,12 @@ modern weather application, Weather App is a simple application to display the c
 <a href="mailto:kavehkhorshidiii@gmail.com"><img width="40px" src="./Media/Social Media/email.png"></a>
 </p>
 
-<h3 align="center">
-
-```
-
-📞 09034343815
-
-```
-
-</h3>
-
-
 
 </p>
 
 
 
-<br/><br/><br/>
+<br/><br/>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 
