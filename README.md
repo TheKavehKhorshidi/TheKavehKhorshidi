@@ -148,6 +148,31 @@ const Me = {
 <!--  -->
 
 <!-- project 2 -->
+
+<td align="center" width="300">
+<h2>Apple</h2>
+<p>
+Apple Clone is a modern Apple-inspired website built with Next.js, TypeScript, and Tailwind CSS. The project is currently under development.
+</p>
+<table>
+<tr>
+<td align="center" width="300">
+<a href="https://github.com/KavehKhorshidiii/Apple">GitHub</a>
+</td>
+</tr>
+</td>
+<td align="center" width="300">
+<a href="https://apple-e99f-f1eixnlpt-kaveh-khorshidis-projects.vercel.app/">Demo</a>
+<tr>
+
+</tr>
+
+</table> 
+</td>
+<!--  -->
+
+
+<!-- project 3 -->
 <td align="center" width="300">
 <h2>Weather App</h2>
 <p>
@@ -162,28 +187,6 @@ modern weather application, Weather App is a simple application to display the c
 </td>
 <td align="center" width="300">
 <a href="https://weather-app-five-chi-91.vercel.app/">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
-
-<!-- project 3 -->
-<td align="center" width="300">
-<h2>Authentication</h2>
-<p>This is a simple mini project built with Next.js and MongoDB that implements user authentication, allowing users to sign up...
-</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/Authentication">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" width="300">
-<a href="#">Demo</a>
 <tr>
 
 </tr>
