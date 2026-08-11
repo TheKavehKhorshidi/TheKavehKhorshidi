@@ -148,28 +148,6 @@ const Me = {
 <!--  -->
 
 
-<!-- project 3 -->
-<td align="center" width="300">
-<h2>Weather App</h2>
-<p>
-modern weather application, Weather App is a simple application to display the current weather in different cities around...
-</p>
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/KavehKhorshidiii/weather-app">GitHub</a>
-</td>
-</tr>
-</td>
-<td align="center" width="300">
-<a href="https://weather-app-five-chi-91.vercel.app/">Demo</a>
-<tr>
-
-</tr>
-
-</table> 
-</td>
-<!--  -->
 <!-- project 2 -->
 
 <td align="center" width="300">
