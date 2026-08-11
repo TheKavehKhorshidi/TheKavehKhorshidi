@@ -152,7 +152,7 @@ const Me = {
 
 <td align="center" width="300">
 <h2>Apple</h2>
-<p>Apple Clone is a modern Apple-inspired website built with Next.js, TypeScript, and Tailwind CSS. The project is currently under development.
+<p>Apple Clone is a modern Apple-inspired website built with Next.js, TypeScript, and Tailwind CSS. The project is current...
 </p>
 <table>
 <tr>
