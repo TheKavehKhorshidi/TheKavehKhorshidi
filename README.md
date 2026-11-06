@@ -279,9 +279,9 @@ modern weather application, Weather App is a simple application to display the c
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekavehkhorshidi&theme=high-contrast&hide_border=true&area=true" alt="Activity graph" />
-</div>
+</div> -->
 
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
