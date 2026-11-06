@@ -237,9 +237,9 @@ modern weather application, Weather App is a simple application to display the c
 <h3 align="center">
 <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=Github%20Stats%20✨&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=KavehKhorshidiii&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakak)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=theKavehKhorshidi&theme=light&hide_border=true&hide_title=true&border_radius=7&custom_title=kakak)
 
-![Top Languages](https://ghstats.dev/api/langs?username=KavehKhorshidiii&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
+![Top Languages](https://ghstats.dev/api/langs?username=theKavehKhorshidi&theme=light&hide_border=true&hidetitle=true&borderradius=7&customtitle=kakaka&maxlangs=12)
 
 </h3>
 
@@ -280,7 +280,7 @@ modern weather application, Weather App is a simple application to display the c
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavehkhorshidiii&theme=high-contrast&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekavehkhorshidi&theme=high-contrast&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
 
