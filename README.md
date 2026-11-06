@@ -249,7 +249,7 @@ modern weather application, Weather App is a simple application to display the c
 
 
 <!-- my note -->
-<h1 align="center">
+<!-- <h1 align="center">
 <img align="center" width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&color=gradient&text=My%20Notes%20📚&fontColor=ffffff&animation=twinkling&fontSize=40&stroke=000000&strokeWidth=6"/>
 </h1>
 <h2 align="left">
@@ -267,7 +267,7 @@ modern weather application, Weather App is a simple application to display the c
 
 </h2>
 
-> Some documentation I wrote while practicing and learning to write.
+> Some documentation I wrote while practicing and learning to write. -->
 
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
