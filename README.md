@@ -209,7 +209,7 @@ modern weather application, Weather App is a simple application to display the c
 
 
 <!-- Let’s Connect -->
-<p align="right" width="50%">
+<!-- <p align="right" width="50%">
 
 
 <h3 align="center">
@@ -229,7 +229,7 @@ modern weather application, Weather App is a simple application to display the c
 
 
 
-<br/><br/>
+<br/><br/> -->
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
 
